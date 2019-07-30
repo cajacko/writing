@@ -1,5 +1,21 @@
 # How to make beliefs - When to believe what someone else believes
 
+## How do you know that what you believe is true?
+
+Have you followed all the scientific methods to test and confirm that gravity, the stars or evolution exist and are true. We form beliefs about how we think the world works all the time. We believe a certain political idea will work better for more people than another, or we believe that pursuing our current lifestyles and goals will make us happy.
+
+Each belief we make is likely to be dependenant on many other things being true. If you believe the earth orbits the sun, you would also need to believe in current theories of gravity, believe that the earth is round and so on. But a single individual cannot go through all the proofs needed to ensure these beliefs and sub beliefs are actually true. It would take too long. So we have to believe some things that we are told. But how should we decide who to believe on what?
+
+## I can see the evidence myself
+
+When you learn about something new and you can see proof of its existence that is certainly a good first step. Someone tells you the world works like this because of x, and you can clearly see the result of x. However our world is a complex place, so many events can cause a certain result to be visible. How can you be sure that the result you're seeing was caused exclusively by x, and isn't infact a by product of something else. Or that x slightly increases the chance of the result happening but isn't the main cause.
+
+## What makes a good source of beliefs
+
+---
+
+## Notes
+
 - We can't do the scientific proofs for everything we believe in life
   - Too much, everything that goes into understanding how and why the internet works would take too long
   - Example? Step through proofs for something a bit simplier
@@ -31,4 +47,17 @@
 ---
 
 - Problem/intro
-- 
+  - Can't test all beliefs ourselves, must rely on others
+- What makes a good source
+  - Replicable results
+  - Admit when wrong
+  - No strong obvious agenda
+  - Shows the outliers to the data
+  - Trying to prove their own theory wrong
+- Traps to avoid
+  - Politically, personal bias - wanting to believ something
+- Using this in daily life
+  - Be more aware of sources
+  - Think in probabilities, about how much you trust a source based on your current knowledge
+  - Read more about bias
+- Links

@@ -8,9 +8,27 @@ Each belief we make is likely to be dependenant on many other things being true.
 
 ## I can see the evidence myself
 
-When you learn about something new and you can see proof of its existence that is certainly a good first step. Someone tells you the world works like this because of x, and you can clearly see the result of x. However our world is a complex place, so many events can cause a certain result to be visible. How can you be sure that the result you're seeing was caused exclusively by x, and isn't infact a by product of something else. Or that x slightly increases the chance of the result happening but isn't the main cause.
+When you learn about something new and you can see proof of its existence that is certainly a good first step. Someone tells you the world works like this because of x, and you can clearly see the result of x. However our world is a complex place, so many events can cause a certain result to be visible. (NOTE: Example) How can you be sure that the result you're seeing was caused exclusively by x, and isn't infact a by product of something else. Or that x slightly increases the chance of the result happening but isn't the main cause.
 
 ## What makes a good source of beliefs
+
+### Their methods and results are replicable
+
+When an individual or organisation publish a fact about the world that may inform your beliefs, one of the best ways to check it's validity is to see if other people have set out to collect similar data and found the same results. The scientific method is about producing a set of experimental steps that will always lead to the same data and conclusions. It's why the scientific community in general is one of the best places to find the most accurate facts and beliefs. As for an idea or belief to be accepted in the community it must have been verified by people other than the original expirementors.
+
+### They set out to prove their ideas wrong
+
+One of the best ways to filter a valid belief from the huge array of false ones, is to try and prove the idea wrong. Rather than trying to prove it right. As seen in the media it's not particularly hard to find data to fit your theory. (NOTE: Example) But that data may not be related to the theory. By setting out to prove the belief wrong you're discarding alternate explanations of your observations until you may be left with a single plausable belief.
+
+### They show that they update their beliefs and agendas when their ideas are proved to be wrong
+
+Humans can be stubborn creatures, unwilling to admit their wrong and change their beliefs. A great way to have more trust in a source is by seeing them adjust their beliefs according to the new information they encounter. It shows a willingness to embrace rationality and how the world actually is, rather than how they want it to be.
+
+## Traps to avoid
+
+## Bringing these ideas into your daily life
+
+## More Info
 
 ---
 

@@ -24,9 +24,30 @@ One of the best ways to filter a valid belief from the huge array of false ones,
 
 Humans can be stubborn creatures, unwilling to admit their wrong and change their beliefs. A great way to have more trust in a source is by seeing them adjust their beliefs according to the new information they encounter. It shows a willingness to embrace rationality and how the world actually is, rather than how they want it to be.
 
-## Traps to avoid
+## Traps to avoid (NOTE: Maybe remove this section)
+
+- Choosing sources that confirm your belief rather than tryign to disprove
+- Not botherling to look at alternate ideas and theories
+- Using phrases like "Everyone does x" or "No one does y" - Bubble of information served by social media
+-
 
 ## Bringing these ideas into your daily life
+
+Doing your due diligence on every idea you come across is impratical. Just like doing the experimental proofs for everything you believe, you're not going to vet every single source for how well they exercise rationality and the scientific method. Instead I propose the following changes you can make:
+
+### Read up on rationality
+
+Learning more about rationality will help you to reason about beliefs and ideas in a more logical way. The ideas itteaches will stick in your subconcious and help you automatically as you hear about new ideas that make effect your beliefs. The blog LessWrong is a great place to start learning more about rationality concepts in a concise way. Also the fan fiction book Harry Potter and the Methods of Rationality, is very entertaining and has great concepts in it.
+
+### Read about different bias
+
+Reading a list and explanation of different bias is a quick task and can really change they way you accept new ideas. You'll recognise a lot of things that you already do without realising. This is a nice quick win, and for any bias you don't necessary agree or believe is true you can look up the experiments prooving it in more detail. I suggest you start with (NOTE: Link).
+
+### If you're going to check an individual or organisation for their methods, start with ones you encounter a lot, or for beliefs that are high impact for you
+
+### Practice assigning probabilities to beliefs and ideas
+
+- Practice assigning a super rough probability of how accurate you think a belief is when you come across it. The practice of doing this will train you to subconciously weigh beliefs
 
 ## More Info
 

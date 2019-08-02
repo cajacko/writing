@@ -18,18 +18,11 @@ When an individual or organisation publish a fact about the world that may infor
 
 ### They set out to prove their ideas wrong
 
-One of the best ways to filter a valid belief from the huge array of false ones, is to try and prove the idea wrong. Rather than trying to prove it right. As seen in the media it's not particularly hard to find data to fit your theory. (NOTE: Example) But that data may not be related to the theory. By setting out to prove the belief wrong you're discarding alternate explanations of your observations until you may be left with a single plausable belief.
+One of the best ways to filter a valid belief from the huge array of false ones, is to try and prove the idea wrong. Rather than trying to prove it right. As seen in the media, it's not particularly hard to find data to fit your theory. (NOTE: Example) But that data may not be related to the theory. By setting out to prove the belief wrong you're discarding alternate explanations of your observations until you may be left with a single plausable belief.
 
 ### They show that they update their beliefs and agendas when their ideas are proved to be wrong
 
-Humans can be stubborn creatures, unwilling to admit their wrong and change their beliefs. A great way to have more trust in a source is by seeing them adjust their beliefs according to the new information they encounter. It shows a willingness to embrace rationality and how the world actually is, rather than how they want it to be.
-
-## Traps to avoid (NOTE: Maybe remove this section)
-
-- Choosing sources that confirm your belief rather than tryign to disprove
-- Not botherling to look at alternate ideas and theories
-- Using phrases like "Everyone does x" or "No one does y" - Bubble of information served by social media
--
+Humans can be stubborn creatures, unwilling to admit they're wrong and change their beliefs. A great way to have more trust in a source is by seeing them adjust their beliefs according to the new information they encounter. It shows a willingness to embrace rationality and how the world actually is, rather than how they want it to be.
 
 ## Bringing these ideas into your daily life
 
@@ -37,7 +30,7 @@ Doing your due diligence on every idea you come across is impratical. Just like 
 
 ### Read up on rationality
 
-Learning more about rationality will help you to reason about beliefs and ideas in a more logical way. The ideas itteaches will stick in your subconcious and help you automatically as you hear about new ideas that make effect your beliefs. The blog LessWrong is a great place to start learning more about rationality concepts in a concise way. Also the fan fiction book Harry Potter and the Methods of Rationality, is very entertaining and has great concepts in it.
+Learning more about rationality will help you to reason about beliefs and ideas in a more logical way. The ideas it teaches will stick in your subconcious and help you automatically as you hear about new ideas that may effect your beliefs. The blog LessWrong is a great place to start learning more about rationality concepts in a concise way. Also the fan fiction book Harry Potter and the Methods of Rationality, is very entertaining and has great concepts in it.
 
 ### Read about different bias
 
@@ -45,58 +38,21 @@ Reading a list and explanation of different bias is a quick task and can really 
 
 ### If you're going to check an individual or organisation for their methods, start with ones you encounter a lot, or for beliefs that are high impact for you
 
+With our limited time, if you do feel the urge to delve a bit deeper into an idea or source, you should start with the ones that impact your life the most. Ask yourself the following questions:
+
+- Are there any beliefs that would dramatically alter your life if you believe/disbelieve them?
+- Are there any sources of information you constantly come across and often adopt their beliefs?
+
+Having answered those questions, look at which beliefs or sources you think would be most useful to analyse first and start there.
+
 ### Practice assigning probabilities to beliefs and ideas
 
-- Practice assigning a super rough probability of how accurate you think a belief is when you come across it. The practice of doing this will train you to subconciously weigh beliefs
+When coming across a new idea or source, try a quick and rough estimate of how accurate you think that idea or source is based off your current knowledge. Ask yourself "What do I know, and how do I think I know it". This will be super rough, but the main point of it is to train your mind you notice the uncertainties in the idea or source, rather than to get an accurate probability. By making this a habit, you should be able to better identify when an idea may be lacking enough proof to fully believe it.
 
-## More Info
+### Find groups with a high level of rationality and get your information from them
 
----
-
-## Notes
-
-- We can't do the scientific proofs for everything we believe in life
-  - Too much, everything that goes into understanding how and why the internet works would take too long
-  - Example? Step through proofs for something a bit simplier
-- We have to choose some sources we assign a high liklihood of being correct, without doing the experiments ourselves
-- How to choose
-  - When you can see the result of a belief and it matches up, that's evidence towards it being correct. Even without doing experiments to scientifically proove it's the correct cause. But not always
-  - Vet the reliability and robustness of sources,
-    - Do they admit when wrong
-    - Do they provide proofs for a variety of different agendas (trying to ensure they're not politically or personally motivated)
-- Pitfalls
-  - Just choosing sources you want to believe
-
----
-
-- Can't do the experiments to proove everything you need to rely on
-- So need to figure out who to trust as likely being right (scientists, philosophers, entrepreneurs, friends, neighbours etc)
-- Without choosing people who are biased or help reinforce politically or personal bias in our own beliefs
-- Look at peoples methods and understand what is meant by scientific method and proof. If they follow these practices, publish the methods and other people replicate the results. Probability in belief increases
-- We're not going to look up this for a lot of what we read, hear or think about. So then what?
-  - Take a min to think, what do I know and how do I know it. If it's just from random conversation and the news, think in terms of probabilities how likely is it that those sources are accurate
 - If you knew someone to be a perfect rationalist, as a rationalist yourself you would believe everything they said, without needing to check yourself. This is not the case, but the principle applies for assigning a probability to it. How rational do I think the people with these beliefs are?
 - Lot's of people believing something can be a very weak proof, however the general public are not normally very good rationalists and very susceptable to the news and social media. Which is not a great space for rationality.
 - Find groups which have a high level of rationality
-- Other resources
-  - Bias
-  - Less wrong
-  - HPMOR
 
----
-
-- Problem/intro
-  - Can't test all beliefs ourselves, must rely on others
-- What makes a good source
-  - Replicable results
-  - Admit when wrong
-  - No strong obvious agenda
-  - Shows the outliers to the data
-  - Trying to prove their own theory wrong
-- Traps to avoid
-  - Politically, personal bias - wanting to believ something
-- Using this in daily life
-  - Be more aware of sources
-  - Think in probabilities, about how much you trust a source based on your current knowledge
-  - Read more about bias
-- Links
+## More Info

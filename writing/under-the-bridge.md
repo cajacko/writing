@@ -16,9 +16,9 @@ Clive shuffles closer and gives a nervous clearing of the throat, the hesitancy 
 
 The figure turns around abruptly, clearly surprised the cigar falls out of his mouth and into the rushing water below.
 
-A squeaky and breaking voice shrills "Cor blimey, you didn't 'alf give me a freight. Have you seen how dramatic it is out 'ere. You nearly made me shit my pants." The figure turns to face Clive. During this movement his Fedora dislodges slightly, tilting at an angle it gives the figure the appliance of a bemused puffin (If you can picture that).
+A squeaky and breaking voice shrills "Cor blimey, you didn't 'alf give me a fright. Have you seen how dramatic it is out 'ere. You nearly made me shit my pants." The figure turns to face Clive. During this movement the Fedora dislodges slightly, tilting at an angle it gives the figure the appearance of a bemused puffin (If you can picture that).
 
-"Err, I've come.... I've come to, erm, purchase..." Clive feedble stammers.
+"Err, I've come.... I've come to, erm, purchase..." Clive feebly stammers.
 
 "Oh, a customer. All is forgiven, what's your fancy. I 'ave it all." The figure opens up their trechcoat and a dazzling gleam glistens from within, as hundreds of tiny pockets are revealed. Each one containing as many forks as it is humanly possible to stuff inside a trechcoat.
 
@@ -30,6 +30,28 @@ The pockets seem to cover every surface of clothing the figure is wearing, even 
 
 The figures looks around a gives a cheeky wink.
 
-"A collection of hand tarnished, never been used, tremendoulsly tactile toasting forks. For the discerning gentleman, of course."
+"A collection of 'and tarnished, never been used, tremendously tactile toasting forks. For the discerning gentleman, of course."
 
-NOTE: "A bit spoonier" (spork). The dealer is disgusted.
+Clive clears his throat again "...um, I err, I was looking for something a bit, a bit rounder and...".
+
+"Oh, you mean like a rounded red, or wavy wooden wonder fork? Popular with the little kidies. A must have for entertaining."
+
+"Um, no, I was thinking of, of something a bit spoonier... some kind of spork?"
+
+The figure abrublty shuts their trenchcoat, adjusts their hat. And looks around, startled. "A what?"
+
+"A err, a spork"
+
+"I 'eard you the first time! Who do you think I am. I've got a business to run, you think I can go around diversifying into hybrid abominations like that. You're disgusting."
+
+"Um, no, I mean, I err, I have needs, I gotta.... I gotta... I gotta have my fix man." Clive collapses to his knees. Tears streaming down his face, his whole body shaking.
+
+"Ever since the Interdiction, I've been rationing myself. Only using when I must, but now, but now... This is all I have left." Clive pulls forth a metallic stub, what was once a proud spork, has been worn away from repeated use. His tears have transcended into pathetic sobbing and mumbling, with Clive clutching at his battered stub.
+
+The figure peers down at the sad lump in front of them, looks around again, double and triple checking no one's around.
+
+"Look, if I 'elp you out this one time. I don't never wanna see you around these 'ere bridges again." They takes off one of their solid steel tipped boots, and pull up a flap in the sole. Their hand retreats holding forth a brand spanking new spork.
+
+"Take it, I was never 'ere, and you never saw nothing."
+
+NOTE: Add more description alongside the dialog. Otherwise may feel a bit too like a script.

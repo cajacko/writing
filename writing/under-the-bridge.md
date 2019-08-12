@@ -1,12 +1,12 @@
 # Under The Bridge
 
-The night was lit by the occasional surprise of lightning. As if the gods wanted you to start regaining some kind of night vision, before fucking you over with another burst of electric brightness. In the periodic darkness a figure (lets call him Clive) scurries over the cobblestones as the rain pit patters around him. The rush of water can be heard as Clive continues his scurrying along the elevated banks of the river pathway.
+The occasional surprise of lightning lit the night sky. As if the gods wanted you to start regaining some kind of night vision, before fucking you over with another burst of electric brightness. In the periodic darkness a figure (let's call him Clive) scurries over the cobblestones as the rain pit patters around him. We hear the rush of water as Clive continues his scurrying along the elevated banks of the river pathway.
 
-Another burst of light, and we see Clive pause. As he came upon the edge of a narrow, gloomy bridge. He looks this way and that, nervously shrugging off the build up of water on the tall collars of his leather jacket. As the light fades, he ducks down the stone stairs leading to the space underneath the bridge.
+Another burst of light, and we see Clive pause. As he comes upon the edge of a narrow, gloomy bridge. He looks this way and that, breathing quickly, his hands shaking ever so slightly. He shrugs off the build up of water on the tall collars of his leather jacket. As the light fades, he ducks down the stone stairs leading to the space underneath the bridge.
 
-Imagine someone who has only ever heard tell of how to approach a secret meeting, but never realised that doing so would look incredibly suspicious, that is our Clive.
+Imagine a person who has been told they need to be very sneaky to approach a secret meeting, but never realised that doing so would look incredibly suspicious, that is our Clive. 
 
-Underneath the bridge, there is a small walkway that widens out into a concrete platform raised just above the water line. The water appears to be frantically grabbing at the platform, the small waves making it seem as if hands are grasping out trying to pull you in. If there was a demon controlling the waters of hell, he would have been proud at the way this river was acting.
+Underneath the bridge, there is a small walkway that widens out into a concrete platform raised just above the water line. The water frantically grabs at the platform, the small waves like hands grasping out trying to pull you in. If there was a demon controlling the waters of hell, he would have been proud at the way this river was acting.
 
 Clive shuffles his feet along the platform, knocking empty beer cans, cigarette butts and needles into the river as he goes. The graffiti on the underside wall of the bridge seems to mock him as he passes. A neon steam punk goblin with the speech bubble "Life is ~~shit~~ ~~sex~~ ~~drugs~~ big floppy dildos". A hastily sprayed purple cloud raining large golden coins onto the peasants below, killing them as it lands. A giant baby in a dirty nappy with a head made of hundreds of politicians. Isn't street art wonderful.
 

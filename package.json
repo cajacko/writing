@@ -1,0 +1,15 @@
+{
+  "name": "writing",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/cajacko/writing.git",
+  "author": "Charlie Jackson <contact@charliejackson.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "remark -u validate-links . --frail"
+  },
+  "dependencies": {
+    "remark-cli": "^7.0.0",
+    "remark-validate-links": "^9.0.1"
+  }
+}

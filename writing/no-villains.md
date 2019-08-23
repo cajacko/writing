@@ -18,7 +18,7 @@ Try thinking to yourself "What great reason could that person have for behaving 
 
 > Don't ascribe to malice what could more easily be explained by ignorance
 >
-> [Halon's Razor](<[https://simple.wikipedia.org/wiki/Hanlon%27s_razor](https://simple.wikipedia.org/wiki/Hanlon's_razor)>).
+> [Halon's Razor](https://simple.wikipedia.org/wiki/hanlon%27s_razor).
 
 Most people aren't bad, but many are lazy, stupid or ignorant.
 

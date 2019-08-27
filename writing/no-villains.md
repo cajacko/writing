@@ -8,11 +8,11 @@ It's a separate dull and depressing day. You're running late for work and dash o
 
 Every move we make is justified to ourselves in some fashion.
 
-- Jared left the toilet seat up. Yeah, well Jared thinks it's more convenient and he only lives with guys.
 - Mary didn't tip her waiter. Turns out that she thinks that all industries should get tips, or just pay people fairly and making a stand helps to change things.
-- Maurice didn't pick up his Costa Coffee cup off the sidewalk. Turns out he didn't even notice he'd dropped it, he's all up in his head, classic Maurice.
+- Maurice didn't pick up his Costa Coffee cup off the sidewalk. However, he didn't even notice he'd dropped it, he's all up in his head, classic Maurice.
+- Jared left the toilet seat up. Yeah, well Jared thinks it's more convenient and he only lives with guys.
 
-Unfortunately other people don't know what you're thinking and experiencing. So they don't realise why you're in a bad mood, or why you have that obscure belief about crop circles, aliens and probing. Alas we may never understand about your probing encounter. But we can give people the benefit of the doubt when we catch ourselves judging them.
+Unfortunately, other people don't know what you're thinking and experiencing. So they don't realise why you're in a bad mood, or why you have that obscure belief about crop circles, aliens and probing. Alas we may never understand about your probing encounter. But we can give people the benefit of the doubt when we catch ourselves judging them.
 
 Try thinking to yourself "What great reason could that person have for behaving like this?". Turns out when you give it a little thought you can easily come up with reasons why Luke decided to call you a cunt on the phone. Were you being a little insensitive for the thousandth time? Even if you can't come up with a good reason for their actions, maybe they just didn't think about it or had no idea they were doing it:
 

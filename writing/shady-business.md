@@ -10,13 +10,13 @@
 
 ---
 
-There was a knock on the thick oaken door, a confident and resounding rap tap tap.
+The sound of a rap tap tap, echoes throughout the room.
 
 The man behind the desk looks up, shuffles together the pieces of paper he was perusing and calls out "Please, do come in".
 
-As the door glides open a young man in a fantastic black suite enters. His stare moves around the room, glancing upon the awkwardly shaped tall pot plant in the corner, taking in the individual sections of the large blinds across the window and finalises on the man at the desk. "Tarquin, Tarquin Hemsworth at your service" he says, holding out his perfectly manicured hand.
+As the door glides open a young man in a fantastic black suit enters. His stare moves around the room, glancing upon the awkwardly shaped pot plant in the corner, taking in the unusually broad blinds hanging down across the window and finalises on the man at the desk. "Tarquin, Tarquin Hemsworth at your service" he says, holding out his perfectly manicured hand.
 
-"Ah yes, the new potential recruit. How exciting! You may call me Hollingswood. Please, do sit." Hollingswood gestures to the plump rouge armchair on the other side of the desk. As Tarquin sits Hollingswood continues "I'm so glad you stumbled across our little advertisement. You have no idea how hard it is to recruit someone here at..." he pauses, gives a side long look and winks "...Shady Business Corp".
+"Ah yes, the new potential recruit. How exciting! You may call me Hollingswood. Please, do sit." Hollingswood gestures to the overly plump rouge armchair on the other side of the desk. As Tarquin sits Hollingswood continues "I'm so glad you stumbled across our little advertisement. You have no idea how hard it is to recruit someone here at..." he pauses, gives a side long look and winks "...Shady Business Corp".
 
 "Yes well, I came across your ad whilst infiltrating a gang of Neo Nazis in Papua New Guinea. Dressed as a Rocky from the Rocky Horror Picture Show I managed to procure their last Hitler DNA sample and speed away in my DB5. That's when I noticed your billboard along the the Okuk Highway. As I read that you were looking for a talented international spy, with key skills in espionage, physical combat and disguises, I thought to myself, Tarquin... Your next adventure awaits"
 

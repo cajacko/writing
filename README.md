@@ -13,4 +13,6 @@ Check out all the `~/writing/*.md` files for more.
 
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 
-<!-- ## Work In Progress -->
+## Work In Progress
+
+- [Shady Business](writing/shady-business.md) (August 2019)

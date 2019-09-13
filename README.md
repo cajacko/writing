@@ -6,6 +6,7 @@ Check out all the `~/writing/*.md` files for more.
 
 ## Finished Pieces
 
+- [Shady Business](writing/shady-business.md) (September 2019)
 - [No-one is the Villain of Their Own Story](writing/no-villains.md) (August 2019)
 - [Under the Bridge](writing/under-the-bridge.md) (August 2019)
 
@@ -15,4 +16,4 @@ Check out all the `~/writing/*.md` files for more.
 
 ## Work In Progress
 
-- [Shady Business](writing/shady-business.md) (August 2019)
+- [Why I don't Vote](writing/no-voting.md) (September 2019)

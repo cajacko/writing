@@ -24,26 +24,34 @@ NOTE: What other alternatives are there to keep up to date, without reading nega
 
 There's got to be a pretty good reason to vote to suffer those consequences. This led me to look at the problem in the following way:
 
-- What is the problem that my vote will help to solve
-- Does that problem actually exist and if so how much of a problem is it
-- Will my vote help to solve that problem
-- Overall is the benefit gained worth the consequences
+- What is the problem that my vote will help to solve?
+- How big of a problem is it?
+- Will my vote help to solve that problem?
+- Overall is the benefit gained worth the consequences?
 
 So let's look at these points in more detail.
 
-## What is the problem that my vote will help to solve
+## What is the problem that my vote will help to solve?
 
-- Help direct the world to a better future. This is always possible no matter how good the world is.
+Errr...making a better world...duh! 
 
-##Does that problem actually exist and if so how much of a problem is it
+Voting is about choosing who you think would make you (depending how selfless you are 😇), your country (and by extension the world 🌍) better off compared to the other candidates. This could mean who will do less harm, as well as who will do most good. Either way the goal is the same, try and make yourself (again depending on 😇) and as many people as happy as possible.
 
-- Can always make the world better. But things are pretty damn good so the problem isn't particularly large (NOTE: This becomes useful for the overall benefit part)
+It's always possible to improve the world. There's no cap on how awesome we can be, unless maybe we find a way to keep every living thing in a constant state of eternal happiness, even past the heat death of the universe.
+
+##How big of a problem is it?
+
+- Could look at Maslow hierarchy and simplify into (physiological, safety and happiness (the rest))
+  - Show poverty, average age for physiological getting better
+  - Wars, crime and people dying from them for safety
+  - Not sure what to do for happiness (but too fuzzy to tell)
+- Things are pretty damn good so the problem isn't particularly large (NOTE: This becomes useful for the overall benefit part)
 - World seems to be getting better without my input, why would I think that process needs changing
 - Is it selfish for me to think that the problem isn't big enough?
   - Even if the difference feels small to me, it doesn't for other people
     - Problem is you don't know exactly what impact will come from the party you vote for. More effective ways of helping people, than the time/sadness needed to keep up with the news (talked about in next section)
 
-## Will my vote help to solve that problem
+## Will my vote help to solve that problem?
 
 - Probably not
   - Politicians don't do everything they say
@@ -53,7 +61,7 @@ So let's look at these points in more detail.
 
 NOTE: Caveat, if the world starts properly going to shit, or the difference between the big parties become huge
 
-## Overall is the benefit gained worth the consequences
+## Overall, is the benefit gained worth the consequences?
 
 Nope
 

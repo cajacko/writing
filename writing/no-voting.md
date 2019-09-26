@@ -35,11 +35,27 @@ So let's look at these points in more detail.
 
 Errr...making a better world...duh! 
 
-Voting is about choosing who you think would make you (depending how selfless you are 😇), your country (and by extension the world 🌍) better off compared to the other candidates. This could mean who will do less harm, as well as who will do most good. Either way the goal is the same, try and make yourself (again depending on 😇) and as many people as happy as possible.
+Voting is about choosing who you think would make you (depending how selfless you are 😇) and your country (and by extension the world 🌍) better off compared to the other candidates. This could mean who will do less harm, as well as who will do most good. Either way the goal is the same, try and make yourself (again depending on 😇) and as many people as happy as possible.
 
 It's always possible to improve the world. There's no cap on how awesome we can be, unless maybe we find a way to keep every living thing in a constant state of eternal happiness, even past the heat death of the universe.
 
 ##How big of a problem is it?
+
+When making the world a better place we can look at Maslow's Hierarchy of Needs to figure out what problems to be solving and how important those problems are. For a full breakdown of Maslow's Hierarchy of Needs go here, otherwise I'll assume you're somewhat familiar.
+
+![Maslow](../assets/maslows-hierarchy-of-needs.svg)
+
+For this article I want to simplify this further into 3 parts:
+
+- Physiological - Same as above
+- Safety - Same as above
+- Happiness - A combination of the top 3 layers of the pyramid (Love/belonging, esteem and self-actualisation)
+
+If happiness is the goal, you'll need to sort out the physiological and safety needs first. It's hard to be happy and content when you're starving, in a permanent state of fear or dead. Therefore the most important problems to solve start at the bottom of the pyramid and get smaller as you work your way up. It's still important to keep working upwards, but it's not as urgent anymore. So let's focus on surviving and staying healthy before tackling relationships and confidence.
+
+NOTE: Could show the inverse exponential diagram, with self-actualisation at the top, and as you go up the pyramid it takes more energy for less and less increase in happiness. Could have another diagram showing cost against benefit and the point where they meet is when you decide to stop voting.
+
+When it comes to the political landscape I find myself in (the UK), We've pretty much nailed the Physiological and Safety parts of the pyramid. And the differences between the major parties aren't going to impact those levels particularly. This dramatically reduces how important our problem (trying to make the world a better place) is.
 
 - Could look at Maslow hierarchy and simplify into (physiological, safety and happiness (the rest))
   - Show poverty, average age for physiological getting better

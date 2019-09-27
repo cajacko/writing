@@ -33,15 +33,15 @@ So let's look at these points in more detail.
 
 ## What is the problem that my vote will help to solve?
 
-Errr...making a better world...duh! 
+Errr...making a better world...duh!
 
 Voting is about choosing who you think would make you (depending how selfless you are 😇) and your country (and by extension the world 🌍) better off compared to the other candidates. This could mean who will do less harm, as well as who will do most good. Either way the goal is the same, try and make yourself (again depending on 😇) and as many people as happy as possible.
 
 It's always possible to improve the world. There's no cap on how awesome we can be, unless maybe we find a way to keep every living thing in a constant state of eternal happiness, even past the heat death of the universe.
 
-##How big of a problem is it?
+## How big of a problem is it?
 
-When making the world a better place we can look at Maslow's Hierarchy of Needs to figure out what problems to be solving and how important those problems are. For a full breakdown of Maslow's Hierarchy of Needs go here, otherwise I'll assume you're somewhat familiar.
+When making the world a better place we can look at Maslow's Hierarchy of Needs to figure out what problems we may need to solve and how important those problems are. For a full breakdown of Maslow's Hierarchy of Needs go here, otherwise I'll assume you're somewhat familiar.
 
 ![Maslow](../assets/maslows-hierarchy-of-needs.svg)
 
@@ -51,7 +51,9 @@ For this article I want to simplify this further into 3 parts:
 - Safety - Same as above
 - Happiness - A combination of the top 3 layers of the pyramid (Love/belonging, esteem and self-actualisation)
 
-If happiness is the goal, you'll need to sort out the physiological and safety needs first. It's hard to be happy and content when you're starving, in a permanent state of fear or dead. Therefore the most important problems to solve start at the bottom of the pyramid and get smaller as you work your way up. It's still important to keep working upwards, but it's not as urgent anymore. So let's focus on surviving and staying healthy before tackling relationships and confidence.
+If happiness is the goal, you'll need to sort out the physiological and safety needs first. It's hard to be happy and content when you're starving, in a permanent state of fear or dead. Therefore the most important problems to solve start at the bottom of the pyramid and get less important as you work your way up. You'll still want to keep working upwards, but it's not as urgent anymore. So let's focus on surviving and staying healthy before tackling relationships and confidence.
+
+In terms of those first 2 (Physiological and Safety) the world is looking pretty damn good. NOTE: Example. Especial in the UK, which is the only place I can vote. This takes us up the pyramid, so the problem we're solving is getting smaller and smaller.
 
 NOTE: Could show the inverse exponential diagram, with self-actualisation at the top, and as you go up the pyramid it takes more energy for less and less increase in happiness. Could have another diagram showing cost against benefit and the point where they meet is when you decide to stop voting.
 
@@ -66,6 +68,13 @@ When it comes to the political landscape I find myself in (the UK), We've pretty
 - Is it selfish for me to think that the problem isn't big enough?
   - Even if the difference feels small to me, it doesn't for other people
     - Problem is you don't know exactly what impact will come from the party you vote for. More effective ways of helping people, than the time/sadness needed to keep up with the news (talked about in next section)
+
+What am I trying to say in this section?
+
+- Looking at Maslow, we'll want to solve Physiological and Safety needs first. As we go upwards (in general as a country) each step becomes less important to solve. The difference between being physically alive, feeling safe and healthy and then being happy get's smaller and smaller as you go up the needs.
+- The world and country is doing fantastically, which means it's becoming less important to focus on making the world a better place (You'll still want to, but the difference you make is smaller)
+
+* As you solve physiological and safety needs the impact you have to improve the world reduces. Show the diagram of hour spent helping the world and impact
 
 ## Will my vote help to solve that problem?
 
@@ -95,3 +104,5 @@ NOTE: Did vote in Brexit, but that's all
 (NOTE: Reword this with points from above? Or just remove and say above) So, how fucked is the world. And is it fucked enough to warrant the daily dose of sadness to vote. Answer: The world is awesome and keeps getting better. Why the hell would I vote. It's like choosing between your 2 favourite meals. (NOTE: It's not the parties that are the meals, just the state of the world after the parties have done their thing.) I don't particular mind which one I have, they're both great. So why agonise over the choice (NOTE: This metaphor is probably one of the best ways to convey my general thoughts about the issue. Great either way, so no point in voting until one of the options is not great.)
 
 (NOTE: Research common reasons to vote and answer through this? Or add my response as a bonus section at end)
+
+NOTE: Companies do more, focus on building better things to improve the world

@@ -78,13 +78,15 @@ What am I trying to say in this section?
 
 ## Will my vote help to solve that problem?
 
-- Probably not
-  - Politicians don't do everything they say
-  - All the big parties are so similar, the future looks pretty near the same (biggest point)
-  - Any of the options are good
-  - Add in the metaphor about choosing between your favourite meals
+In this section we look at what impact my vote actually has on making the country and world a better place. My vote is helping to choose a winner between the parties that have a chance to win in the election. Which means I need to pick a party that will result in a better world than the others.
 
-NOTE: Caveat, if the world starts properly going to shit, or the difference between the big parties become huge
+From what I can tell, the differences between all the parties likely to win an election are so small that the net benefit to the world is the same regardless of who wins. We like to think that the parties are wildly different, but on the grand scheme of dictators at one end and open anarchy at the other, all the parties in the election occupy a very tiny range on that spectrum. (NOTE: Link to wait but why post on this). Which for me means, I don't care which of the parties win. The world looks pretty good with any of them in charge.
+
+Now if we did get to a point where that range get's so large that there would be quite a noticeable difference in the net benefit to the world, that's when I'd come in to vote. (Here mention the Brexit thing).
+
+It's also pretty impossible to figure out what the net benefit will be of each major party winning. Mixed in with the fact that the parties don't/can't always do what they promised, makes it more a game of trust and instinct than anything concrete.
+
+So, will my vote help solve the problem? Probably not when the difference is so small and the predicted impact is so fuzzy.
 
 ## Overall, is the benefit gained worth the consequences?
 
@@ -94,6 +96,7 @@ Nope
 - Voting won't solve the problem because you can't be sure the changes you want will happen, and they're all so similar anyway
 - The downsides are huge
 - I can be more useful in society as a happy, productive member, than a sad sack complaining about the world
+- Don't care which party wins, as they are all so similar and I think the net benefit to the world will be the same or impossible to predict
 
 ## Final thoughts
 
@@ -105,4 +108,6 @@ NOTE: Did vote in Brexit, but that's all
 
 (NOTE: Research common reasons to vote and answer through this? Or add my response as a bonus section at end)
 
-NOTE: Companies do more, focus on building better things to improve the world
+NOTE: (There are other ways to improve the world without the negative consequences of voting) Companies do more, focus on building better things to improve the world
+
+NOTE: Include a next steps, further research and potential flaws section

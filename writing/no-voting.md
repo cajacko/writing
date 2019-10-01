@@ -78,11 +78,11 @@ What am I trying to say in this section?
 
 ## Will my vote help to solve that problem?
 
-In this section we look at what impact my vote actually has on making the country and world a better place. My vote is helping to choose a winner between the parties that have a chance to win in the election. Which means I need to pick a party that will result in a better world than the others.
+In this section we look at what impact a vote actually has on making the country and world a better place. A vote is helping to choose a winner between the parties that have a chance in the election. Which means I should pick a party that will result in a better world than the others.
 
-From what I can tell, the differences between all the parties likely to win an election are so small that the net benefit to the world is the same regardless of who wins. We like to think that the parties are wildly different, but on the grand scheme of dictators at one end and open anarchy at the other, all the parties in the election occupy a very tiny range on that spectrum. (NOTE: Link to wait but why post on this). Which for me means, I don't care which of the parties win. The world looks pretty good with any of them in charge.
+From what I can tell, the differences between all the parties likely to win an election are so small (NOTE: How do I know that if I don't read the news) that the predicted net benefit to the world is the same regardless of who wins. We like to think that the parties are wildly different, but on the grand scheme of dictators at one end and open anarchy at the other, all the parties in the election occupy a very tiny range on that spectrum. Which for me means, I don't care which of the parties win. The world looks pretty good with any of them in charge.
 
-Now if we did get to a point where that range get's so large that there would be quite a noticeable difference in the net benefit to the world, that's when I'd come in to vote. (Here mention the Brexit thing).
+Now if we did get to a point where that range get's big enough that there would be a predictable difference in the net benefit to the world, that's when I'd come in to vote. This is what happened during the Brexit vote, which is the one time I have voted, as I thought the world would be a better place if we were more together with each other. And being a single issue it made it much easier to predict a net benefit to the world.
 
 It's also pretty impossible to figure out what the net benefit will be of each major party winning. Mixed in with the fact that the parties don't/can't always do what they promised, makes it more a game of trust and instinct than anything concrete.
 

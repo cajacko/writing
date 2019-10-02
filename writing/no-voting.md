@@ -80,9 +80,11 @@ What am I trying to say in this section?
 
 In this section we look at what impact a vote actually has on making the country and world a better place. A vote is helping to choose a winner between the parties that have a chance in the election. Which means I should pick a party that will result in a better world than the others.
 
-From what I can tell, the differences between all the parties likely to win an election are so small (NOTE: How do I know that if I don't read the news) that the predicted net benefit to the world is the same regardless of who wins. We like to think that the parties are wildly different, but on the grand scheme of dictators at one end and open anarchy at the other, all the parties in the election occupy a very tiny range on that spectrum. Which for me means, I don't care which of the parties win. The world looks pretty good with any of them in charge.
+From what I can tell, the differences between all the parties likely to win an election are so small (NOTE: How do I know that if I don't read the news) that the predicted net benefit to the world is the same regardless of who wins. We like to think that the parties are wildly different, but on the grand scheme of dictators at one end and open anarchy at the other, all the parties in the election occupy a very tiny range on that spectrum. 
 
-Now if we did get to a point where that range get's big enough that there would be a predictable difference in the net benefit to the world, that's when I'd come in to vote. This is what happened during the Brexit vote, which is the one time I have voted, as I thought the world would be a better place if we were more together with each other. And being a single issue it made it much easier to predict a net benefit to the world.
+It's like having a huge family dinner. Where your grandparents are cooking and are going to serve everyone the same meal, but let you all choose between 2 (each meal is the state of the world after the people you voted in have finished their term in office). It just so happens that these 2 meals are both your favourite. I don't particular mind which one I have, they're both great. So I'll let everyone else at the table pick.
+
+Now if we did get to a point where that range get's big enough that there would be a predictable difference in the net benefit to the world, that's when I'd come in to vote (In our dinner metaphor this is like a 3rd choice being something you like but not as much as the other 2). This is what happened during the Brexit vote, which is the one time I have voted, as I thought the world would be a better place if we were more together with each other. And being a single issue it made it much easier to predict a net benefit to the world.
 
 It's also pretty impossible to figure out what the net benefit will be of each major party winning. Mixed in with the fact that the parties don't/can't always do what they promised, makes it more a game of trust and instinct than anything concrete.
 
@@ -101,10 +103,6 @@ Nope
 ## Final thoughts
 
 NOTE: I do not want people to follow my reasoning, otherwise the whole system doesn't work
-
-NOTE: Did vote in Brexit, but that's all
-
-(NOTE: Reword this with points from above? Or just remove and say above) So, how fucked is the world. And is it fucked enough to warrant the daily dose of sadness to vote. Answer: The world is awesome and keeps getting better. Why the hell would I vote. It's like choosing between your 2 favourite meals. (NOTE: It's not the parties that are the meals, just the state of the world after the parties have done their thing.) I don't particular mind which one I have, they're both great. So why agonise over the choice (NOTE: This metaphor is probably one of the best ways to convey my general thoughts about the issue. Great either way, so no point in voting until one of the options is not great.)
 
 (NOTE: Research common reasons to vote and answer through this? Or add my response as a bonus section at end)
 

@@ -74,19 +74,21 @@ So, will my vote help solve the problem? Probably not when the difference is so 
 
 ## What is the cost of voting?
 
+In the intro to this post, I talked about an uninformed vote being pointless or worse case actually against what you're trying to achieve (by accidentally voting for a party that wants to do the opposite of what you want). So for an informed vote, you need to be informed. 
+
+Reading the news isn't a great idea, we talked about it have a strong contribution to unhappiness. But there are other ways to have an informed vote. You could specifically go to read non biased articles, manifestos and debates. Problem is, none of these are particularly fun either. They all involve super boring topics and you'd need to go through quite a lot to get a good idea of what each major party stands for. All of this takes time.
+
+When looking at the root problem of making the world a better place, I'd argue that the time I'd spend to stay informed would be better spent doing something else to improve the world. Even if that time goes towards earning more money so that you can give to charity. Or building products and companies that improve peoples lives. These are things that are more fun for me to do, and I think has a greater impact on the world.
+
 ## Overall, is the benefit gained worth the consequences?
 
-Nope
-
-- The problem isn't that large, as the worlds great
-- Voting won't solve the problem because you can't be sure the changes you want will happen, and they're all so similar anyway
-- The downsides are huge
-- I can be more useful in society as a happy, productive member, than a sad sack complaining about the world
-- Don't care which party wins, as they are all so similar and I think the net benefit to the world will be the same or impossible to predict
+I wrote this post to see if I'd change my mind by going through the argument. I still think that I can improve the world more by doing something else rather than spending the time needed to have an informed vote. A happy Charlie, does better, more inspired work. And makes me have a better outlook on helping people. The world of politics and voting comes with such a strong cost, for something that (at the moment) won't result in much difference. The major parties are all so similar on the grand scheme of things, the world is improving so much anyway and you really can't be sure what they'll do when voted in. So I really don't see a compelling reason to vote. I'm happy with any of the likely parties to win.
 
 ## Final thoughts
 
-NOTE: I do not want people to follow my reasoning, otherwise the whole system doesn't work
+I really don't want anyone else to follow in my footsteps here. My reasoning only works because everyone else votes and gets in these awesome parties that all help make the world a great place.
+
+
 
 (NOTE: Research common reasons to vote and answer through this? Or add my response as a bonus section at end)
 

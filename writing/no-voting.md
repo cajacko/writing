@@ -82,16 +82,34 @@ When looking at the root problem of making the world a better place, I'd argue t
 
 ## Overall, is the benefit gained worth the consequences?
 
-I wrote this post to see if I'd change my mind by going through the argument. I still think that I can improve the world more by doing something else rather than spending the time needed to have an informed vote. A happy Charlie, does better, more inspired work. And makes me have a better outlook on helping people. The world of politics and voting comes with such a strong cost, for something that (at the moment) won't result in much difference. The major parties are all so similar on the grand scheme of things, the world is improving so much anyway and you really can't be sure what they'll do when voted in. So I really don't see a compelling reason to vote. I'm happy with any of the likely parties to win.
+I wrote this post to see if I'd change my mind by going through the argument. I still think that I can improve the world more by keeping myself happy, giving to charity and building products and companies, rather than spending the time needed to have an informed vote. A happy Charlie, does better, more inspired work. And makes me have a better outlook on helping people. 
+
+The world of politics and voting comes with such a strong cost, for something that (at the moment) won't result in much difference. The major parties are all so similar on the grand scheme of things, the world is improving so much anyway and you really can't be sure what they'll do when voted in. So I really don't see a compelling reason to vote. I'm happy with any of the likely parties to win.
 
 ## Final thoughts
 
-I really don't want anyone else to follow in my footsteps here. My reasoning only works because everyone else votes and gets in these awesome parties that all help make the world a great place.
+I really don't want anyone else to follow in my footsteps here. My reasoning only works because everyone else votes and gets in these awesome parties (political parties, not fun parties. Although those also help 🥳) that all help make the world a great place.
 
+Part of writing this post was to explore my own reasoning and invite other views to comment on areas I may have missed.
 
+If there was an organisation like Effective Altruism (which is my favourite charity to give to), but recommended who to vote for I would totally vote on what they recommend. Having a bunch of trusted rationalists do all that research for you, and go further than 1 person could ever research would completely change my mind.
 
-(NOTE: Research common reasons to vote and answer through this? Or add my response as a bonus section at end)
+I guess I could look at who my trusted friends vote for and weigh that up in terms of how rational I think they are. But I can't be so sure on their bias's and would have to have those political discussion with them, which doesn't particularly add to my happiness. 
 
-NOTE: (There are other ways to improve the world without the negative consequences of voting) Companies do more, focus on building better things to improve the world
+Here's some parts of this argument that would be useful for me to research more, but I'm not going to at the moment, due to the time already invested in this piece:
 
-NOTE: Include a next steps, further research and potential flaws section
+- Is an uninformed vote really worse than no vote at all? 
+- Are you still more likely to vote in a better party of instinct and minimal research than accidentally vote in a worse one?
+- Clearly no one/the government hasn't given me a compelling reason to vote yet. Is it better for people like me not to vote so they see this as a growing problem that they need to spend more resources to address?
+- Maybe there are some good sources for keeping informed which aren't so depressing or boring? But I don't know about them.
+- NOTE: Read through whole thing and add here
+
+---
+
+TODO: 
+
+- Go through all NOTE's
+- Add the custom graph on the point at which anybody would stop voting, and how mine is just further over than yours
+- Rewrite everything with my tone of voice
+- Ensure points all make sense and are in a logical flow
+

@@ -13,3 +13,7 @@ Check out all the `~/writing/*.md` files for more.
 ## Unfinished
 
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
+
+## In Progress
+
+- [Automate Everything](writing/automation.md) (October 2019)

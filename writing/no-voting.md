@@ -2,19 +2,19 @@
 
 A few years ago, deep into my London hipster vibe, I was reading a lot about self development and happiness 😀. I spent most of my time around East London, running a tech startup and going to the quirky bars where you sit on crates and barrels (to be fair I still do a lot of this now, it's fun, but now I've also added on improvised comedy 🎭).
 
-During this time I started an experiment. I stopped reading the news. I'd read about how the news doubles done on negativity to help sell, and that small doses of consistent negativity each day can have a dramatic long term effect on your happiness 😢. So time to find out if this was true... It was... I have never gone back to reading the news.
+During this time I started an experiment. I stopped reading the news. I'd read about how the news doubles down on negativity to help sell, and that small doses of consistent negativity each day can have a dramatic long-term effect on your happiness 😢. So time to find out if this was true... It was... I have never gone back to reading the news.
 
 Turns out that I got all the information I needed to function in society just by the conversations I had with friends and family, along with the vague hints from the blogs and books I read. Unless you work in an industry where you need to know exactly what's going on in the world (for example, international spy 🕵️‍♂️), I can't see a compelling reason to go back. Reading the news just made me a slightly sadder Charlie and a wee bit more pessimistic on a daily basis, often in such subtle ways that I never realised until I cut it out for a few months.
 
-> I've heard that doing a similar thing with social media can improve peoples happiness as well, but to be honest I'm not that "down" with "the social medias" so I wouldn't notice much of a difference for me.
+> I've heard that doing a similar thing with social media can improve people's happiness as well, but to be honest I'm not that "down" with "the social medias" so I wouldn't notice much of a difference for me.
 
 Up until this point (I was around 23 at the time 🐣), I hadn't voted yet. It was never something that really came up in my life or I had thought about until then (oh how ignorance is bliss). But as I was living in London and getting older, I would hear more about politics, elections and all that crap 💩. Turns out conversations do get more serious as you get older.
 
 I started thinking about it more, discussing this mad world of politics and voting with friends and family. To me it seemed ridiculous that people could vote without knowing a reasonable amount about all parties (not the fun kind of parties 🥳, I mean the boring political ones). Why don't we have an exam you need to pass in order to vote? I certainly didn't feel qualified enough to vote on who should run the country.
 
-> I have since realised that democracy isn't about the electing the best people, but about keeping those in charge scared of the general public so they don't get all "dictatory". Democracy seems to be the best of a bunch of non ideal options.
+> I have since realised that democracy isn't about the electing the best people, but about keeping those in charge scared of the general public so they don't get all "dictatory". Democracy seems to be the best of a bunch of non-ideal options.
 
-I still hold the belief that my vote would be useless or counter productive if I didn't know an even amount about each reasonably sized party 🥳. Which ties us back into reading the news or finding other ways can I stay informed about the political parties without it effecting my happiness.
+I still hold the belief that my vote would be useless or counter-productive if I didn't know an even amount about each reasonably-sized party 🥳. Which ties us back into reading the news or finding other ways can I stay informed about the political parties without it effecting my happiness.
 
 This was something I did not want to do, and had shown makes me happier when I don't. So now the question was:
 
@@ -40,7 +40,7 @@ It's always possible to improve the world. There's no cap on how awesome we can 
 
 ## How big of a problem is it?
 
-Making the world a better place is always an important problem. But as the world improves and becomes more equal the scale of the problem decreases 📉. When most people in the world are dying of hunger the problem is huge, when the problem shifts to most of the population being fed but don't have a great sense of love or belonging 💔, the problem is still important, but less urgent than it was before.
+Making the world a better place is always an important problem. But as the world improves and becomes more equal, the scale of the problem decreases 📉. When most people in the world are dying of hunger, the problem is huge; when the problem shifts to most of the population being fed but don't have a great sense of love or belonging 💔, the problem is still important, but less urgent than it was before.
 
 Maslow's Hierarchy of Needs is one place we can go to get a rough idea of the order of problems to solve for humanity. For a full breakdown of Maslow's Hierarchy of Needs go [here](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs) (or, you know...Google it), otherwise I'll assume you're somewhat familiar.
 
@@ -48,7 +48,7 @@ Maslow's Hierarchy of Needs is one place we can go to get a rough idea of the or
 
 In a very loose sense I like to think of the size of each colour band in this triangle representing the relative importance of the problem compared to the others. For example it's more important to solve your physiological needs, like food 🍔, before solving your safety needs, like security of employment.
 
-If you look at where the average human is on this scale over the last thousands of years we've been dramatically climbing this pyramid, getting more and more of the population up that pyramid. It's hard to see any trends on a smaller scale like the last 10/20 years. But even looking at the last 100/500 years, the world has been excelling in population well being (good job us 👏).
+If you look at where the average human is on this scale over the last thousands of years we've been dramatically climbing this pyramid, getting more and more of the population up that pyramid. It's hard to see any trends on a smaller scale like the last 10/20 years. But even looking at the last 100/500 years, the world has been excelling in population well-being (good job us 👏).
 
 So although we can always make the world better, and it's super important to pull up people on the lower rungs of this pyramid, everything keeps getting better, so the scale of the problem is shrinking.
 
@@ -58,9 +58,9 @@ In this section we look at what impact a vote actually has on making the country
 
 From what I can tell, the differences between all the parties likely to win an election are so small that the predicted net benefit to the world is the same regardless of who wins. We like to think that the parties are wildly different (😇 ↔ 😈), but on the grand scheme of dictators at one end and open anarchy at the other, all the parties in the election occupy a very tiny range on that spectrum.
 
-It's like having a huge family dinner. Where your grandparents 👵🏻👴🏻 are cooking and are going to serve everyone the same meal, but let you all choose between 2 (each meal is the state of the world after the people you voted in have finished their term in office). It just so happens that these 2 meals are both your favourite 😋. I don't particular mind which one I have, they're different but both great. So I'll let the people who care more pick.
+It's like having a huge family dinner where your grandparents 👵🏻👴🏻 are cooking and are going to serve everyone the same meal, but let you all choose between 2 (each meal is the state of the world after the people you voted in have finished their term in office). It just so happens that these 2 meals are both your favourite 😋. I don't particulary mind which one I have, they're different but both great. So I'll let the people who care more pick.
 
-Now if we did get to a point where that range get's big enough that there would be a predictable difference in the net benefit to the world, that's when I'd come in to vote (In our dinner metaphor this is like a 3rd choice being something you like but not as much as the other 2 🤢). This is what happened during the Brexit vote, which is the one time I have voted, as I thought the world would be a better place if we were more together with each other 👫. And being a single issue it made it much easier to predict a net benefit to the world.
+Now if we did get to a point where that range gets big enough that there would be a predictable difference in the net benefit to the world, that's when I'd come in to vote (In our dinner metaphor this is like a 3rd choice being something you like but not as much as the other 2 🤢). This is what happened during the Brexit vote, which is the one time I have voted, as I thought the world would be a better place if we were more together with each other 👫. And being a single issue it made it much easier to predict a net benefit to the world.
 
 It's also pretty impossible to figure out what the net benefit will be of each major party 🥳 winning. Mixed in with the fact that the parties don't/can't always do what they promise, makes it more a game of trust and instinct than anything concrete.
 
@@ -72,7 +72,7 @@ In the intro to this post, I talked about an uninformed vote being pointless or 
 
 Reading the news isn't a great idea, we talked about it have a strong contribution to unhappiness 😢. But there are other ways to have an informed vote. You could specifically go to read non biased articles, manifestos and debates. Problem is, none of these are particularly fun either 👎. They all involve super boring topics and you'd need to go through quite a lot to get a good idea of what each major party stands for. All of this takes time.
 
-When looking at the root problem of making the world a better place, I'd argue that the time I would spend to stay informed would be better spent doing something else to improve the world. Even if that time goes towards earning more money so that you can give to charity. Or building products and companies that improve peoples lives. These are things that are more fun for me to do, and I think has a greater impact on the world.
+When looking at the root problem of making the world a better place, I'd argue that the time I would spend to stay informed would be better spent doing something else to improve the world. Even if that time goes towards earning more money so that you can give to charity. Or building products and companies that improve peoples lives. These are things that are more fun for me to do, and I think have a greater impact on the world.
 
 ## Overall, is the benefit gained worth the consequences?
 

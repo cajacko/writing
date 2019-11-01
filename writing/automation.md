@@ -1,6 +1,62 @@
 # Automate Everything
 
+- Bad memory, niche tasks, frequency and long checklists
+- Improving yourself - frequent tasks to live happier
+- Experimenting with habits - reminders, courses, coaches etc.
+- Automating life - PA, scripts, reminders
+
 ---
+
+My memory is shit. Without my phone I'm not sure I'd be able to function in normal society. (TODO: Examples. Forgetting events, getting back to people...).
+
+But that's ok. As a programmer I'm a big fan of getting the machines to do as much for you as you can. And machines are much better at remembering stuff than you. So why not free yourself up and spend more time doing things a machine can't do. Like creative expression or having fun.
+
+(NOTE: Point about no one remembering niche tasks, long lists or regular frequency)
+
+I solve this by keeping reminders and checklists for everything. (TOOD: Examples)
+
+Here are the key qualities of my reminder and checklist system:
+
+- Repeated reminders
+- Snooze reminders
+- Visibility
+- Ease to create a new one
+- Checklists you can reset
+
+I use Trello to manage all of this. (TODO: Describe in enough detail so others can do their own version)
+
+---
+
+The post is about forgetting things an duding reminders/checklists/calendars/alarms/notifications to solve that.
+
+---
+
+I love having nothing to do. No tasks or admin. Just time to dick about designing board games, developing weird app ideas or doodling pretty pictures.
+
+We all have life admin to get done. (TODO: Examples)
+
+And forgetting to do it can cause even more problems (NOTE: Needed to explain why we need reminders). (TODO: Examples)
+
+As a programmer I spend most of my time trying to get the machines to do my job for me. So I've looked into how I can get the machines to make sure I never forget
+So I've looked into how I can best get the machines to do my life admin and make sure I don't forget things. Which free's up my time for aforementioned dicking about.
+
+The most important thing I do for this, is keep digital reminders and checklists for everything. (TODO: Examples)
+
+The important aspects of these reminders are:
+
+- I have reminders for pretty much everything in my life
+- Some of these reminders repeat daily/weekly/monthly
+- I can snooze these reminders to a more convenient time
+
+Here's some bonus content on other ways I automate life admin and remembering:
+
+- Calendar
+- Scripts
+- Personal Assistant
+
+---
+
+TODO: Focus on 1 point - Free time for fun by automating life admin. How - Repeat reminders, snoozing and checklists
 
 - Time is valuable, don't do things computers can do for you. Remembering (calendar, checklists, reminders). Free yourself for more creative thinking and enjoying life
 - As programmer, goal is to build scripts so you don't have to do anything

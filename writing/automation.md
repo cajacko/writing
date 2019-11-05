@@ -6,6 +6,34 @@ Creating reminders and checklists for everything stops you forgetting stuff and 
 
 ---
 
+It's not your fault when you forget to turn up for board game night.
+
+It's not your fault when you...
+
+It's not your fault when you...
+
+Well...it is your fault. But not for forgetting. Remembering mundane life admin tasks are not what humans were built for. But forgetting can cause lots of tiny negative experiences in our lives.
+
+This is why we have machines. For doing the mundane things in life. Writing reminders for all of these tasks, that let you:
+
+- Repeat reminders daily, weekly, monthly etc
+- Snooze reminders until a more convenient date
+- Add checklists so you can ensure you brought all your x to the y
+
+You'll no longer forget to do anything.
+
+Well...now you know, if you're still fucking up, I guess it is your fault.
+
+---
+
+I am terrible at remembering those tiny tasks in life that help (TODO: A funny). Without my phone and the cloud, I'm not sure I'd ever turn up to where I'm suppose to be, wash my bed as often as I should or (TODO: Funny)
+
+Most of these are not massively important tasks, but failing to do them, turning up late or (TODO: Funny) can add lots of tiny negativity to my life. And Charlie don't like negativity.
+
+So, as a programmer I wanted to offset as much as this responsibility to the machines as possible. No more forgetting regular life admin.
+
+---
+
 (NOTE: Tone is a big negative, not quite as fun as it should be, nice and concise though)
 
 Organising your life is hard. Dozens of tiny things to do each month, week or day. A whole host of shit to remember anytime you go on holiday. People to arrange to see. Events to remember to go to.

@@ -25,7 +25,7 @@ For these reminders to be effective you need to have a system where you can:
 - Create static reminders (reminders that don't have a due date, but you can check at any time e.g. A checklist you use every time you pack to go travelling)
 - Get notifications when reminders are due
 
-_I use Trello for this. You can check out [this video](https://youtu.be/swP60uOM36A) on how I set it up._
+_I use Trello for this. You can check out [this video](https://youtu.be/zVIOBTKeM50) on how I set it up._
 
 With this in place you'll no longer forget to do anything.
 

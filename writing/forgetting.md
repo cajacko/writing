@@ -2,9 +2,9 @@
 
 It's not your fault when you forget to turn up to board game night.
 
-It's not your fault when you absentmindedly went 4 weeks without washing you bedding.
+It's not your fault when you absentmindedly go 4 weeks without washing your bedding.
 
-It's not your fault when you promised to get some more dog flea treatment, didn't, and 1 month later are living with an entire mob of fleas, lead by the big one called Klaus.
+It's not your fault when you promise to get some more dog flea treatment, don't, and 1 month later are living with an entire mob of fleas, led by the big one you call Klaus.
 
 Well...it is your fault. But not for forgetting. Remembering the minutia of life is not what humans were built for. This is why we made machines 🤖. So let's put them to work, even for the little things.
 
@@ -23,9 +23,9 @@ For these reminders to be effective you need to have a system where you can:
 - Add checklists to reminders (you'll never remember long lists)
 - Add links and attachments to reminders
 - Create static reminders (reminders that don't have a due date, but you can check at any time e.g. A checklist you use every time you pack to go travelling)
-- Get notifications when reminder are due
+- Get notifications when reminders are due
 
-_I use Trello for this. You can check out **this post** (TODO: Write this instructional post) on how I set it up._
+_I use Trello for this. You can check out [this video](https://youtu.be/swP60uOM36A) on how I set it up._
 
 With this in place you'll no longer forget to do anything.
 

@@ -30,3 +30,28 @@ Main points
 - Don't let yourself become addicted/dependant to anything
 - Keep taking substances that you find fun, as long as the short and long term downsides are worth it
 - Make sure you are very aware of the short/long term effects
+
+---
+
+Small - Medium - Large
+
+| Substance    | How much happiness does it give you | How addictive is to | How much sadness does it give you when done in excess |
+| ------------ | ----------------------------------- | ------------------- | ----------------------------------------------------- |
+| Alcohol      | Large                               | Medium              | Large                                                 |
+| Ecstasy      | Large                               | Small               | Medium                                                |
+| Exercise     | Medium                              | Small               | Medium                                                |
+| Sex          | Large                               |                     |                                                       |
+| Masturbation | Large                               |                     |                                                       |
+| Bad Foods    | Medium                              | Medium              | Large                                                 |
+| Heroin       | Large                               | Large               | Large                                                 |
+
+## Rules
+
+- Rule 1: Never become addicted to anything
+- Rule 2: Don't let yourself get close to becoming addicted to anything (as it's hard to pull away when close)
+- Rule 3: Be very aware of the negative consequences both short and long
+- Rule 4: Keep doing the things you find fun as long as the positive/negative balance is ok for you and you're not breaking the other rules
+
+Whilst following these rules, I'd encourage people to take substances that open the world view, help their creativity, help you to relax etc. I've come up with ideas and motivations whilst a little drunk or high that have helped me out so much, even when I'm not in those states.
+
+There's lots of fun and new experiences to be had. So don't go fully sober or not give a specific drug a go, as long as you're not risking those rules.

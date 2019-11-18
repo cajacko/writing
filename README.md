@@ -17,4 +17,6 @@ Check out all the `~/writing/*.md` files for more.
 
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 
-<!-- ## In Progress -->
+## In Progress
+
+- [Killing the Dog](./writing/kill-the-dog.md)

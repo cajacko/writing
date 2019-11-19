@@ -1,4 +1,34 @@
-# Killing the Dog
+# Killing the Dog - My new reason for practicing mindfulness
+
+- Theory - Learning to slow down, and be present will have massive benefits when get old and thinking becomes harder. If you've made it a habit
+
+---
+
+Anyone else seriously wanted to kill their dog? Gone through a bunch of plans to make it seem like an accident?
+
+- Serious
+- Semi-serious
+- Silly
+
+Yeah, I did. Me and my partner decided to get a cute little malti-poo. A delightful ball of fluff and energy. I had gone freelance and was mainly working from home. What a great way to give me a little company and distraction from work.
+
+Alas the first 2 weeks of being dog daddy was not great.
+
+...
+
+I learnt a whole bunch of other stuff from this process:
+
+- The importance of discipline
+- Finding ways to test big decisions before taking them (pets before children)
+- What it's like to dramatically underestimate something, even when you thought you were already being pessimistic about the outcome
+
+But none of those were as important to write about for me.
+
+P.s. I love my dog 👍
+
+Image
+
+---
 
 - Working at home, so got a dog
 - Completely underestimated the responsibility

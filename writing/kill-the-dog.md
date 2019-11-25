@@ -4,15 +4,27 @@
 
 ---
 
-Anyone else seriously wanted to kill their dog? Gone through a bunch of plans to make it seem like an accident?
+Anyone else seriously wanted to kill their dog? And gone through a bunch of plans to make it seem like an accident?
 
 - Serious
 - Semi-serious
 - Silly
 
-Yeah, I did. Me and my partner decided to get a cute little malti-poo. A delightful ball of fluff and energy. I had gone freelance and was mainly working from home. What a great way to give me a little company and distraction from work.
+Yeah, I did. I knew getting my first dog would be quite a change but had no idea how much it would effect me. The combination of being kept up all night, constantly being mindful of this creature that is certainly not house trained yet and being around it all the time (I work from home), made me feel like I was losing my mind. I couldn't think clearly. As a programmer you work best by getting into flow states for a few hours.
 
-Alas the first 2 weeks of being dog daddy was not great.
+For the first time in my life I got super scared about what it would be like to realise you mental faculties were diminishing. 
+
+- Not being able to think properly
+- Whilst knowing what you are normally capable of
+- And knowing that it's not the temporary effects of something like drink, drugs or a short illness
+
+
+
+When I got my cute little malti-poo I dramatically underestimated how much work it was going to be. I had heard that it would be a big change, but nothing like it was. 
+
+Alas the first 2 weeks of being a dog daddy was not great.
+
+I grew up with cats, which turns out are much easier to manage than dogs. I had heard this. But still dramatically underestimated how much work it would be.
 
 ...
 

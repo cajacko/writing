@@ -6,15 +6,17 @@ Anyone else seriously wanted to kill their dog? And gone through a bunch of plan
 - Semi-serious
 - Silly
 
-Yeah I did. In the first few weeks of getting my first dog I found myself sleep deprived, constantly vigilant for what the dog was doing (for house training) and being constantly distracted from my work (I work at home).
+Yeah I did. In the first few weeks of getting the most adorable little puppy I found myself in a permanent state where I couldn't think clearly for the first time in my life. Possibly due to a mixture of sleep deprivation, constant distraction worrying and having massively underestimated the commitment.
 
-In this state I found that I couldn't think clearly. And it wasn't a temporary cause like drink, drugs or a short illness that you can accept. I had no idea how to get to a state where I could think properly, whilst having the dog.
+Either way it scared the shit out of me, and made me super unhappy. To such a point that I was seriously considering how to kill the dog and make it look like an accident.
 
-For the first time in my life I got super scared about what it would be like to realise you mental faculties were diminishing. Mixed in with seeing my Grandma deteriorate and die due to Alzheimers in the last few years, this state I was in really scared the shit out of me.
+It made me sympathise more with people who are aware that they are losing their minds. And having lost my Grandma to Alzheimers a year or so before, the scary reality of this problem was very prominent in my mind.
 
-Thankfully I didn't kill the dog, and after I got use to it and the puppy got trained up all is good and super fun now. But I can still remember what it felt like. And have been trying to think of how I can train myself to accept the situation of losing my mind if it were to happen to me.
+So I've been wondering about how you could prepare yourself to better deal with future situations like this. And I have a completely un-researched theory:
 
-NOTE: Learning to slow down, and be present will have massive benefits when get old and thinking becomes harder. If you've made it a habit
+>>> Developing a strong instinctive habit for meditation, practicing mindfulness and living in the present moment will  increase your happiness and ability to cope when developing a condition that prevents you from thinking normally.
+
+NOTE: Explain further
 
 I learnt a whole bunch of other stuff from this process:
 
@@ -32,4 +34,4 @@ NOTE: Image
 
 ## Notes
 
-- Cut down, get to the point quicker. But may still need the story to lead into it. So how can that be trimmed?
+- Cut down, get to the point quicker. But may still need the story/context to lead into it. So how can that be trimmed?

@@ -6,6 +6,7 @@ Check out all the `~/writing/*.md` files for more.
 
 ## Finished Pieces
 
+- [Killing the Dog](./writing/kill-the-dog.md) (November 2019)
 - [Balancing Alcohol, Drugs and Fun](./writing/alcohol-drugs.md) (November 2019)
 - [Stop Forgetting, Employ the Machines! 🤖](writing/forgetting.md) (November 2019)
 - [Why I don't Vote](writing/no-voting.md) (October 2019)
@@ -17,6 +18,4 @@ Check out all the `~/writing/*.md` files for more.
 
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 
-## In Progress
-
-- [Killing the Dog](./writing/kill-the-dog.md)
+<!-- ## In Progress -->

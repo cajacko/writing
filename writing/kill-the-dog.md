@@ -14,7 +14,7 @@ It made me sympathise more with people who are aware that they are losing their 
 
 So I've been wondering about how you could prepare yourself to better deal with future situations like this. And have a theory for ya'll:
 
->>> Establishing a strong habit for meditation and mindfulness will increase your happiness and ability to cope when developing a condition that prevents you from thinking normally.
+> Establishing a strong habit for meditation and mindfulness will increase your happiness and ability to cope when developing a condition that prevents you from thinking normally.
 
 Mindfulness is about living in the present moment and accepting how you're feeling. Which should help you cope with a situation where you can't think clearly. The problem is deciding to or being able to practice mindfulness when in this state. Which is why it would need to be developed as a life long habit that starts to enter your subconscious.
 

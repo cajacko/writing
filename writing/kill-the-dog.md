@@ -1,37 +1,25 @@
 # Killing the Dog - My new reason for practicing mindfulness
 
-Anyone else seriously wanted to kill their dog? And gone through a bunch of plans to make it seem like an accident?
+Anyone else seriously wanted to kill their dog ☠️🐶? And gone through a bunch of plans to make it seem like an accident?
 
-- Serious
-- Semi-serious
-- Silly
+- "Accidentally" leaving the front door open so she runs into the road
+- Host a house party 🥳, put on "Who let the dogs out", turn it up and keep putting the puppy in the middle of the dance floor until someone crushes her to death with their funky moves
+- Travel back to the Roman times, tell everyone the dog is the Messiah and wait until the inevitable crucifixion ✟
 
-Yeah I did. In the first few weeks of getting the most adorable little puppy I found myself in a permanent state where I couldn't think clearly for the first time in my life. Possibly due to a mixture of sleep deprivation, constant distraction worrying and having massively underestimated the commitment.
+Yeah, I thought about this. In the first few weeks of getting the most adorable little puppy I found myself in a permanent state where I couldn't think clearly for the first time in my life. Possibly due to a mixture of sleep deprivation, constant distraction, worrying and having massively underestimated the commitment.
 
-Either way it scared the shit out of me, and made me super unhappy. To such a point that I was seriously considering how to kill the dog and make it look like an accident.
+Either way it scared the shit 💩 out of me, and I became super unhappy. To a point where I was seriously considering how to kill the dog and make it look like an accident.
 
 It made me sympathise more with people who are aware that they are losing their minds. And having lost my Grandma to Alzheimers a year or so before, the scary reality of this problem was very prominent in my mind.
 
-So I've been wondering about how you could prepare yourself to better deal with future situations like this. And I have a completely un-researched theory:
+So I've been wondering about how you could prepare yourself to better deal with future situations like this. And have a theory for ya'll:
 
->>> Developing a strong instinctive habit for meditation, practicing mindfulness and living in the present moment will  increase your happiness and ability to cope when developing a condition that prevents you from thinking normally.
+>>> Establishing a strong habit for meditation and mindfulness will increase your happiness and ability to cope when developing a condition that prevents you from thinking normally.
 
-NOTE: Explain further
+Mindfulness is about living in the present moment and accepting how you're feeling. Which should help you cope with a situation where you can't think clearly. The problem is deciding to or being able to practice mindfulness when in this state. Which is why it would need to be developed as a life long habit that starts to enter your subconscious.
 
-I learnt a whole bunch of other stuff from this process:
+Just a fun light thought for you all 🙃.
 
-- The importance of discipline
-- Finding ways to test big decisions before taking them (pets before children)
-- What it's like to dramatically underestimate something, even when you thought you were already being pessimistic about the outcome
+P.s. I love my dog ♥ 🐶
 
-But none of those were as important to write about for me.
-
-P.s. I love my dog 👍
-
-NOTE: Image
-
----
-
-## Notes
-
-- Cut down, get to the point quicker. But may still need the story/context to lead into it. So how can that be trimmed?
+![Charlie and Llama](../assets/charlie-and-llama.jpg)

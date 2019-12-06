@@ -1,20 +1,21 @@
 # Give up all your data
 
-Imagine a world where everything that was advertised to you was only something that you would buy. No more spam, or spending ages searching through the shit for the things you want or need. Sounds great!
+Imagine a world where every advertisement you see is only something that you want to buy and can afford. If you don't want to buy anything, you don't get any ads. When something you don't know about but would love is released, you got told about it. No more spam! Sounds great!
 
-And companies want this too. They waste so much money advertising to people who will never buy their products. They could save so much and spend more on making better products for you.
+And companies want this too. They waste so much money advertising to people who will never buy their products. They could save so much and spend more on making better inventions for you.
 
-Now imagine that when companies are designing these products, they know exactly how to build the perfect product for you. They could see how you used previous products, competitors products and how to fit their new product into your life (NOTE using the word products too much). Now you're happy that you have a better product, and they're happy you keep buying from them.
+Now imagine that when companies are designing these products, they know exactly how to build the perfect contraption just for you. They could see how you used previous devices, competitors appliances and how to fit their new gizmo into your life. Now you're happy that you have a better product, and they're happy you keep buying from them.
 
 We can get there! But the companies need your data. Ideally all of it. They need to know that you don't like x so they don't waste money advertising it to you. They need to know that you do x, so they can build a y that does z.
 
-At the moment many of us are overly paranoid when it comes to given our personal data to companies. You know no human is looking at your individual cloud data, right? (NOTE: And even if they were, why do you care?) It's only machines and algorithms going through it. Giving trend data to employees so they can help build better products for you, and let you know about things you want.
+At the moment many of us are overly paranoid when it comes to given our personal data to companies. You know no human is looking at your individual cloud data, right? It's not like Jim in data processing is having a gander at 1 users data out of millions and going "Oh the cheeky bastard is searching for scratch and sniff porn mags again". And even if he was, who gives a shit about Jim in data processing. It's only machines and algorithms going through it. Giving trend data to employees so they can help build better products for you, and let you know about things you want.
 
-(NOTE: Next few paragraphs are a bit ranty and can be trimmed a lot)
-Like many technologies and associated trends there's some things we should be clued up on to avoid being taken advantage of. The main thing here is positive feedback loops. Where you like a funny article about ducks, now you start seeing more articles about ducks, you like a few more, next thing you know your entire feed is just ducks and you've signed up for duck impersonation training.
+One potential downside to sharing your data with companies is when they create services with positive feedback loops, and you don't realise that.
 
-Positive feedback loops aren't always a bad thing (can be great to find new music you like) but when mixed with things like fake news and political articles it can really shape the way people thing, sometimes in damaging ways.
+> Positive Feedback Loop - Where you like a funny article about ducks, now you start seeing more articles about ducks, you like a few more, next thing you know your entire feed is just ducks and you've signed up for duck impersonation training. 
 
-But this is just like any other bias you might not be aware that you have. Knowing about fake news and being vigilante is just a part of the modern internet, just like how you should to be aware of credit fraud of confirmation bias. It's something for the law to help make safe, not something inherently bad about companies.
+Often positive feedback loops can be great, Spotify recommending you songs you're likely to love. But if you don't realise you're in one, and you're using a service that's giving you news and political opinions. It can start to really distort you view of what the world is actually like. And when mixed with fake news, this can be really destructive.
+
+Positive feedback loops aren't unique to companies providing services. Most of your friend groups and the places you work are likely to be positive feedback loops. So the solution isn't to boycott companies, it's just to know when you're in one of these loops, and factor that in when deciding what to believe and how to act.
 
 So make sure you're aware of positive feedback loops or any other bias' related to sharing your data, but don't let that stop you from helping companies make the world a better place. Share your data with companies, otherwise you're just shooting yourself in the foot.

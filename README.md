@@ -6,6 +6,7 @@ Check out all the `~/writing/*.md` files for more.
 
 ## Finished Pieces
 
+- [Give up all your data](./writing/privacy.md) (December 2019)
 - [Killing the Dog](./writing/kill-the-dog.md) (November 2019)
 - [Balancing Alcohol, Drugs and Fun](./writing/alcohol-drugs.md) (November 2019)
 - [Stop Forgetting, Employ the Machines! 🤖](writing/forgetting.md) (November 2019)

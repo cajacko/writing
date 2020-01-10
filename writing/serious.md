@@ -1,7 +1,9 @@
 # Don't take life too seriously 🤪
 
 I don't want global warming to fuck up the planet 🌍.
+
 I don't want anybody to live in poverty 😢.
+
 I even don't want to live in a world without sparkly mens leggings containing handy pockets for you valuables 🕺.
 
 But you know what? If any of this happens, I'm still going to find ways to enjoy myself. I'll still focus on how to have a happy life and help others as well.

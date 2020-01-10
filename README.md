@@ -6,6 +6,7 @@ Check out all the `~/writing/*.md` files for more.
 
 ## Finished Pieces
 
+- [Don't take life too seriously](./writing/serious.md) (January 2020)
 - [Give up all your data](./writing/privacy.md) (December 2019)
 - [Killing the Dog](./writing/kill-the-dog.md) (November 2019)
 - [Balancing Alcohol, Drugs and Fun](./writing/alcohol-drugs.md) (November 2019)
@@ -20,6 +21,4 @@ Check out all the `~/writing/*.md` files for more.
 - [Religion is obviously false](./writing/religion.md) (December 2019)
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 
-## In Progress
-
-- [Don't take life too seriously](./writing/serious.md)
+<!-- ## In Progress -->

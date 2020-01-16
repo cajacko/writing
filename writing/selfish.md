@@ -14,57 +14,50 @@
     - Researching everything from medical, mental health and self improvement helps people
     - Advancing technology helps people
     - Being an entertainer: film, comedy, sports etc helps people enjoy life
-- Having this mix of helping people is super important. So don't feel guilty about not doing x y z, as long as you've thought about how what you do helps others as well as yourself, carry on.
-
-- This post is about making people think about how their life choices are helping people. And where they are on the balance between selfish and selflessness. Then it's up to them to decide how they feel about their position. Just get them thinking.
-
 ---
 
-Here's a fun scale for ya:
+We can only ever choose to do things for our own selfish reasons. Yes even (silly example). Every action (in our control) that we take is to improve our short term happiness, long term happiness or to stay true to our individual moral codes which help us feel like we have fulfilling lives (basically long term happiness again).
 
-- __+100%__ - Massive dick who does everything only for themselves and doesn't mind everyone else knowing that.
-- __+50%__ - A mostly selfish individual who does help others, but normally it's only to help themselves.
-- __0%__ - The balancer, who does a mix of things for themselves and others.
-- __-50%__ - The Good Samaritan who loves to focus on helping other people, but still takes time for themselves.
-- __-100%__ - The devoted who spends their every waking moment helping others, thinking about others and neglecting their own self interest for the good of others. Probably not a well rounded person as they don't spend much time on self improvement.
+Either way, whether you're donating to charity, helping a stranger in the street or sacrificing your life for somebody else, you're doing it for one of the reasons above. (Add in silly example)
 
-We all exist somewhere on this scale, often occupying different points at different times in our lives. There's not really a *right* place to be on the scale but I do think the world should have a mixture of people between __+75%__ - __-75%__. Neither extremes are particular useful, except for being examples to motivate others not to be like that. But there are good reasons to have
-
-I do believe that we help others only because it increases our personal short or long term well being, whether that's the sense of satisfaction, fulfilment for living a good life or because you get off when people thank you. So in some way we're all 100% selfish.
-
-But I use this scale to try and emphasise 
-
-Don't think people are happy at either extreme.
-
-Maybe the point is to keep trying different zones on the scale throughout your life. You can do more good after you've worked on yourself, and you can do lots of good when focussing on others. So keep switching, know where you are but stay clear of the extremes.
-
----
-
-We can only ever choose to do things for our own selfish reasons. Every action (in our control) that we take is to improve our short term happiness, long term happiness or to stay true to our individual moral codes that helps us identify what a fulfilling life is made from.
-
-Either way, whether you're donating to charity, helping a stranger in the street or sacrificing your life for somebody else, you're doing it for one of the reasons above.
-
-This doesn't mean that we should fully embrace our inner selfishness and fuck over everyone else. Helping other people can make us feel good in the short term, long term and adheres to many of our personal moral codes that help us feel fulfilled in life. Also, being a nice and generous person usually makes people treat you better in return, so win win.
+This doesn't mean that we should fully embrace our inner selfishness and fuck over everyone else (sorry 😢). Helping other people can make us feel good in the short term, long term and adheres to many of our personal moral codes that help us feel fulfilled in life. Also, being a nice and generous person usually makes people treat you better in return, so everyone's a winner, especially you!
 
 When it comes to how selfish you act and appear I like to use the following scale:
 
-- __+100%__ - Massive dick who does everything only for themselves and doesn't mind everyone else knowing that.
+- __+100%__ - Massive dick who does everything only for themselves and doesn't mind everyone else knowing that. Not particularly useful to society, although may be by accident.
 - __+50%__ - A mostly selfish individual who does help others, but normally it's only to help themselves.
 - __0%__ - The balancer, who does a mix of things for themselves and others.
 - __-50%__ - The Good Samaritan who loves to focus on helping other people, but still takes time for themselves.
-- __-100%__ - The devoted who spends their every waking moment helping others, thinking about others and neglecting their own self interest for the good of others. Probably not a well rounded person as they don't spend much time on self improvement.
+- __-100%__ - The devoted who spends their every waking moment helping others, thinking about others and neglecting their own self interest for the good of others. The problem is, if you don't improve yourself and stay happy you're going to be worse at helping others. e.g. If you spent 3 out of 10 years learning how to make yourself 200% more effective at helping people. You would help more people in the other 7 years than if you spent 10 years helping people but not learning how to be 200% more effective.
 
 I think it's important to identify where you are on this scale and play around with different parts over your life time. We need people in the world at every stage (although the people on both extremes should just serve as inspiration to others, not to be these people).
 
-We need slightly more selfish people to:
+Slightly more selfish people are useful because
 - Nerd out and build useless tech (advancement)
 - Get super invested in weird niche subjects with no obvious application
 - Build monolithic companies, make loads of money and inspire the economy
 
-We need more selfless people to:
+More selfless people to:
 - Understand the problems people are actually facing
 - Help people on the ground
 - Inspire us all to be better
 
-We need to be in-between as well....
+So have a play on this scale, accept that you can't help everyone and as long as you're not too far to one extreme stop worrying about being whether you're too selfish and enjoy your life. You'll be more effective at helping people when you're happier and healthier.
 
+NOTE: Does some part of this need to be in here? (You also can't save or help everybody, and have to realise that. There will always be suffering, or people suffering more than you. Even if we bring everyone above the poverty line, the people at the bottom of society will be considered "suffering" compared to those at the top.)
+
+---
+
+As humans all we really want to do is increase our personal happiness. Both short term and long term. We all have our own moral codes that we strive to live by. Sticking to these also increases our sense of fulfilment in life (adding to that long term happiness).
+
+Helping other people is often a strong part of our moral codes. And it should be. It feels great to help others. And the more people we can bring above the poverty line, help live happier lives and contribute back to society. The quicker we can solve the big problems of global warming, colonising other planets and transcending our bodies/death. Which will help us in return.
+
+But life is a balance. If you just spent your time helping others and giving all your food, money and time to helping others you would starve and have less time and money to spend on improving yourself. And improving yourself can lead to much more benefit that you can provide for others.
+
+> If you spent 3 out of 10 years learning how to make yourself 200% more effective at helping people. You would help more people in the other 7 years than if you spent 10 years helping people but not learning how to be 200% more effective.
+
+We also work better when we're happy, healthy and motivated. Which means helping people in a more effective way.
+
+So don't worry about whether you're too selfish or not. As long as your not on either extreme of "never helping others" or "only every helping others and not focusing on yourself", then you're all good. Maybe have a dabble of your life of being a bit more selfish or a bit less selfish and see how it feels.
+
+NOTE: Would be useful to explain how more selfish and less selfish both benefit others.

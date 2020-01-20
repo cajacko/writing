@@ -48,16 +48,28 @@ NOTE: Does some part of this need to be in here? (You also can't save or help ev
 
 ---
 
-As humans all we really want to do is increase our personal happiness. Both short term and long term. We all have our own moral codes that we strive to live by. Sticking to these also increases our sense of fulfilment in life (adding to that long term happiness).
+As humans all we really want to do is increase our personal happiness. Helping others is just a way of satisfying our own goals. If you're in control of your actions, I don't think it's possible to be truly selfless.
 
-Helping other people is often a strong part of our moral codes. And it should be. It feels great to help others. And the more people we can bring above the poverty line, help live happier lives and contribute back to society. The quicker we can solve the big problems of global warming, colonising other planets and transcending our bodies/death. Which will help us in return.
+But that doesn't mean we have to be selfish dicks all the time. There're many aspects to helping others that can help you enjoy life more, either in the short or long term:
 
-But life is a balance. If you just spent your time helping others and giving all your food, money and time to helping others you would starve and have less time and money to spend on improving yourself. And improving yourself can lead to much more benefit that you can provide for others.
+- That warm fuzzy feeling of being a good person
+- Being seen and treated as a good person. Be nice and people are more likely to be nice back.
+- The more people we can bring out of poverty and help make happier, the more productive they can be in society. All of which helps us tackle the big issues like; climate change, colonising other planets and stalling death. Which definitely benefits yourself.
+
+On the flip side, I don't think it's wise to spend all your time helping others. If you gave all your food, money and time to helping others you would starve and have less time and money to spend on improving yourself. And the more you can improve yourself, the more effectively you can help others:
 
 > If you spent 3 out of 10 years learning how to make yourself 200% more effective at helping people. You would help more people in the other 7 years than if you spent 10 years helping people but not learning how to be 200% more effective.
 
-We also work better when we're happy, healthy and motivated. Which means helping people in a more effective way.
+We also work better when we're happy, healthy and motivated. Which means you'll help people in a more effective way. Everyone's a winner.
 
-So don't worry about whether you're too selfish or not. As long as your not on either extreme of "never helping others" or "only every helping others and not focusing on yourself", then you're all good. Maybe have a dabble of your life of being a bit more selfish or a bit less selfish and see how it feels.
+So don't worry about how much you're helping others. Throughout your life why not try bigger and smaller periods of helping people, and see what you enjoy the most. As long as you're not on either extreme of "never helping others" or "only every helping others and not focusing on yourself", then you're all good. 
 
 NOTE: Would be useful to explain how more selfish and less selfish both benefit others.
+
+---
+
+The point boils down to:
+- Don't worry about how much you're directly helping others
+- We need a balance of people with more and less focus on directly helping others. As the indirect people build companies, research new useful things, provide entertainment, contribute to the economy, and improve themselves more etc, and the direct people discover the reality of the problems, actually help individuals etc. We need the mixture to tackle everything
+- Just don't be on either extreme
+- So try out different place on the scale of directly helping others and see what works for you. But don't worry too much about it, the worlds a great place.

@@ -6,6 +6,7 @@ Check out all the `~/writing/*.md` files for more.
 
 ## Finished Pieces
 
+- [How selfish should you be](./writing/selfish.md) (January 2020)
 - [Don't take life too seriously](./writing/serious.md) (January 2020)
 - [Give up all your data](./writing/privacy.md) (December 2019)
 - [Killing the Dog](./writing/kill-the-dog.md) (November 2019)

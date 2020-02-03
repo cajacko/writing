@@ -2,9 +2,9 @@
 
 There's no way around it, alcohol and drugs are super fun 🥳. Anything that can help you relax, have fun or open your mind sounds great to me. I've developed some of my best (and often unusual 🤪) ideas when slightly drunk or high. And the impact of those ideas lasts way past the effects of the substance.
 
-I see little difference between these kind of substances and gaming, bad foods, exercise, sex or anything else you do for pleasure. They can all give you great experiences, but can come with downsides and addictive tendencies as well. Each just has have a different balance of rewards, costs (short and long term) and levels of addiction.
+I see little difference between these kind of substances and gaming, bad foods, exercise, sex or anything else you do for pleasure. They can all give you great experiences, but can come with downsides and addictive tendencies as well. Each just has a different balance of rewards, costs (short and long term) and levels of addiction.
 
-Becoming addicted to anything is bad 👎 (except for an addiction to antique globe collecting 🌍). And the rode to becoming an addict can be a slippery one, so you want to stay way clear from the turning point.
+Becoming addicted to anything is bad 👎 (except for an addiction to antique globe collecting 🌍). And the road to becoming an addict can be a slippery one, so you want to stay way clear from the turning point.
 
 But as long as you do stay clear and are very aware of the short and long term negative effects of any substance you take, keep experimenting 👨‍🔬.
 

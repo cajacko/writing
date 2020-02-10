@@ -6,6 +6,7 @@ Check out all the `~/writing/*.md` files for more.
 
 ## Finished Pieces
 
+- [Overcoming your primitive mind](./writing/primitive-mind.md) (February 2020)
 - [How selfish should you be](./writing/selfish.md) (January 2020)
 - [Don't take life too seriously](./writing/serious.md) (January 2020)
 - [Give up all your data](./writing/privacy.md) (December 2019)
@@ -22,6 +23,4 @@ Check out all the `~/writing/*.md` files for more.
 - [Religion is obviously false](./writing/religion.md) (December 2019)
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 
-## In Progress
-
-- [Primitive mind](./writing/primitive-mind.md) (February 2020)
+<!-- ## In Progress -->

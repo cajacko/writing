@@ -1,8 +1,6 @@
 # Writing
 
-This repo contains a collection of blog posts and other forms of writing by Charlie Jackson.
-
-Check out all the `~/writing/*.md` files for more.
+A collection of posts and writings by [Charlie Jackson](https://charliejackson.com). Basically my blog and random muslings 📖🙃
 
 ## Finished Pieces
 

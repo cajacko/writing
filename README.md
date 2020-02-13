@@ -21,4 +21,6 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 - [Religion is obviously false](./writing/religion.md) (December 2019)
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 
-<!-- ## In Progress -->
+## In Progress
+
+- [Poker](./writing/poker.md)

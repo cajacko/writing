@@ -16,6 +16,17 @@ Could get to a point where people are holding more serious weapons under the tab
 
 ---
 
-The five figures lean back in their chairs. A dim light hangs in the centre of the room, hovering just over the worn circular table. Shadows being cast in every corner, only the contents of the table are lit. Showing an array of betting chips, cards and drinks. The haze of smoke is in the air, constantly being topped up by each pull of the cigars. And the occasional burst from a vape (there's always one who feels like ruining the tone).
+The five figures lean back in their chairs. A dim light hangs in the centre of the room, hovering just over the worn circular table. Shadows being cast in every corner, only the contents of the table are lit. Showing an array of betting chips, cards and glass tumblers. The haze of smoke is in the air, constantly being topped up by each pull of the cigars. And the occasional burst from a vape (there's always one who feels like ruining the tone).
 
-Scanning around the room we see familiar, notorious faces. Big Dave, Tommy Two Hands, Sherique the Grim, Jimmy Al Fresco  and Mary Smith of 4 Puddlestone Hill, just down from the post office by the pond. The one in that delightful cottage with the thatch roof and rododendras flourishing outside.
+Around the room are the familiar, notorious faces of Big Dave, Tommy Two Hands, Sherique the Grim, Jimmy Al Fresco and Mary Smith of 4 Puddlestone Hill, just down from the post office by the pond. The one in that delightful cottage with the thatch roof and rododendras flourishing outside. Who is currently knitting a yellow bobble hat with a pink sheepy in the middle.
+
+There's a stillness in the air as the dealer changes to Tommy Two hands. Everyone gathers themselves, knowing that at this stage of the game, the stakes are getting higher. Tommy uses his namesake two hands to shuffle the deck. All eyes a watching, checking the for mere glance of an opportunity to yell "Cheat!" and perform some kind of terminating action on Tommy and his two hands.
+
+(NOTE: Introduce the idea of the normal cards getting lost and these ones with ducks on being used here.)
+
+As the cards are being dealt, Mary Smith of 4 Puddlestone Hill puts down her knitting needles. A collective release of tension reverberates around the room. The others know the stories of those needles, of the creative pain they could cause. 
+
+NOTE: Replace with: They've seen the x-rays showing just how curiously those needles could get lodged, when Mary Smith of 4 Puddlestone Hill feels scorned.
+
+As the cards are being checked, Jimmy Al Fresco, the loud one, slaps his hands on the table "Well that'd do it!" And pushes his entire stack of chips into the middle.
+

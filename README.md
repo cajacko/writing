@@ -2,6 +2,8 @@
 
 A collection of posts and writings by [Charlie Jackson](https://charliejackson.com). Basically my blog and random muslings 📖🙃
 
+All my old stuff may still be around on [Medium](https://medium.com/@CharlieAJackson).
+
 ## Finished Pieces
 
 - [Overcoming your primitive mind](./writing/primitive-mind.md) (February 2020)
@@ -21,4 +23,6 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 - [Religion is obviously false](./writing/religion.md) (December 2019)
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 
-<!-- ## In Progress -->
+## In Progress
+
+- [Poker](./writing/poker.md)

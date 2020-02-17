@@ -3,6 +3,14 @@
 High stakes poker game. Maybe mob/underground. Start by building the tension. Then there's a round where everyone think's they've got it and people start going all in. Then people raise the bets by doing the jewellery/car keys thing. Then it get's silly.
 
 The game of the scene is more ridiculous bets
+- chips
+- keys
+- jewellery
+- note: one night, with me dressed as a bear covered in honey
+- 1400 flapjacks
+- An ornate brass monkey that's...
+- Snap fingers and a figure is dragged in, hooded - revealed to be the 2nd coming of Jesus?
+- Mary Smiths knitted sheep jumper
 
 A sub game could be misunderstanding poker
 
@@ -26,7 +34,11 @@ There's a stillness in the air as the dealer changes to Tommy Two hands. Everyon
 
 As the cards are being dealt, Mary Smith of 4 Puddlestone Hill puts down her knitting needles. A collective release of tension reverberates around the room. The others know the stories of those needles, of the creative pain they could cause. 
 
-NOTE: Replace with: They've seen the x-rays showing just how curiously those needles could get lodged, when Mary Smith of 4 Puddlestone Hill feels scorned.
+(NOTE: Replace with: They've seen the x-rays showing just how curiously those needles could get lodged, when Mary Smith of 4 Puddlestone Hill feels scorned.)
 
-As the cards are being checked, Jimmy Al Fresco, the loud one, slaps his hands on the table "Well that'd do it!" And pushes his entire stack of chips into the middle.
+As the cards are being checked, Jimmy Al Fresco, the loud one, slaps his hands on the table "Well that'd do it!" And pushes his entire stack of chips into the middle of the table.
+
+All eyes move to Big Dave, his chip stack much smaller than what he needs to put in. He checks his cards, takes a long deliberate pull on the cigar. Blowing what he wants to be a smoke ring, but in reality looks more like a smoke (NOTE: Insert funny here). Slowly he reaches into his breast pocket and pulls out an elaborate set of Aston Martin keys and throws them into the pile of chips.
+
+With nods of satisfaction the focus shifts to Shrique the Grim.
 

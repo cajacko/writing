@@ -2,6 +2,8 @@
 
 A collection of posts and writings by [Charlie Jackson](https://charliejackson.com). Basically my blog and random muslings 📖🙃
 
+All my old stuff may still be around on [Medium](https://medium.com/@CharlieAJackson).
+
 ## Finished Pieces
 
 - [Overcoming your primitive mind](./writing/primitive-mind.md) (February 2020)

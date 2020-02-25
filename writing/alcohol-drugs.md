@@ -8,7 +8,7 @@ Becoming addicted to anything is bad 👎 (except for an addiction to antique gl
 
 But as long as you do stay clear and are very aware of the short and long term negative effects of any substance you take, keep experimenting 👨‍🔬.
 
-For me, I've been very aware of the quantity of alcohol I drink 🍻. And take lots of measures to ensure I don't fall into addictive tendencies and am not dependant on alcohol:
+For me, I've been very aware of the quantity of alcohol I drink 🍻. And take measures to ensure I don't fall into addictive tendencies and am not dependant on it:
 
 - Tracking daily alcohol intake and viewing trends to check I'm in control
 - Social pressure, by sharing my drinking process and goals with people who can hold me accountable

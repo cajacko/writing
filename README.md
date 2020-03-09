@@ -2,8 +2,6 @@
 
 A collection of posts and writings by [Charlie Jackson](https://charliejackson.com). Basically my blog and random muslings 📖🙃
 
-All my old stuff may still be around on [Medium](https://medium.com/@CharlieAJackson).
-
 ## Finished Pieces
 
 - [Overcoming your primitive mind](./writing/primitive-mind.md) (February 2020)
@@ -17,6 +15,15 @@ All my old stuff may still be around on [Medium](https://medium.com/@CharlieAJac
 - [Shady Business](writing/shady-business.md) (September 2019)
 - [No-one is the Villain of Their Own Story](writing/no-villains.md) (August 2019)
 - [Under the Bridge](writing/under-the-bridge.md) (August 2019)
+- [It's all your fault](https://medium.com/lessons-by-charlie-jackson/its-all-your-fault-8bf87a9138fa) (Nov 2018)
+- [Listen - It’s Not About You](https://medium.com/lessons-by-charlie-jackson/listen-its-not-about-you-86c93f74df83) (Nov 2018)
+- [How Thinking in Probabilities Helps You Make Better Decisions](https://medium.com/lessons-by-charlie-jackson/how-thinking-in-probabilities-helps-you-make-better-decisions-c82e09bd183a) (Nov 2018)
+- [Improve your thinking by writing](https://medium.com/lessons-by-charlie-jackson/improve-your-thinking-by-writing-7c0e71c8dfe7) (Nov 2018)
+- [Learn by Building — Motivated Programming](https://medium.com/lessons-by-charlie-jackson/learn-by-building-motivated-programming-378c1a635e7c) (Oct 2018)
+- [Start small and do less — Forming habits for life](https://medium.com/lessons-by-charlie-jackson/start-small-and-do-less-forming-habits-for-life-679948eb08e7) (Oct 2018)
+- [Calm yourself using lists, picking your battles and paying for simplicity](https://medium.com/lessons-by-charlie-jackson/calm-yourself-using-lists-picking-your-battles-and-paying-for-simplicity-36488e87a9ee) (Apr 2018)
+- [Be curious, tell people what you want and 23 more lessons from this week](https://medium.com/lessons-by-charlie-jackson/be-curious-tell-people-what-you-want-and-23-more-lessons-from-this-week-cff6967706b7) (Mar 2018)
+- [Plan fun shit, death to CMS and have a hangover work plan](https://medium.com/lessons-by-charlie-jackson/plan-fun-shit-death-to-cms-and-have-a-hangover-work-plan-c5f747650bf3) (Feb 2018)
 
 ## Unfinished
 

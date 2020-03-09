@@ -22,7 +22,8 @@ All my old stuff may still be around on [Medium](https://medium.com/@CharlieAJac
 
 - [Religion is obviously false](./writing/religion.md) (December 2019)
 - [How to Form Beliefs - When to Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
+- [Poker](./writing/poker.md) (February 2020)
 
 ## In Progress
 
-- [Poker](./writing/poker.md)
+- [How to Enjoy Life](writing/enjoy-life.md)

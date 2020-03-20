@@ -33,4 +33,5 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## In Progress
 
-- [How to Enjoy Life](writing/enjoy-life.md)
+- [Understanding Depression](writing/understanding-depression.md) (March 2020)
+- [How to Enjoy Life](writing/enjoy-life.md) (March 2020)

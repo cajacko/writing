@@ -36,3 +36,18 @@ Hard thing to write about. At this stage need to take a small piece and write em
 
 - The selfish part?
 - Realising it doesn't go away
+
+
+Selfish dick or depressed and needs help?
+
+
+---
+
+Process
+
+- Initial notes
+- Ask questions. Like an interviewer
+- Videos around topic and answering these questions
+- Figure out the unique stance
+- Write
+- Videos to communicate

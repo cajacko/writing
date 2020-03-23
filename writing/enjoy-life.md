@@ -11,18 +11,18 @@ You can look at any event/situation/thought or feeling (we're going to combine t
 - Increase 📈 the frequency and intensity of positive moments
 - Decrease 📉 the frequency and intensity of negative moments
 
-By intensity, I'm talking about how much that moment effects you. For example, negative moments occurring to you are not that bad if they have a small impact on how you feel.
+By intensity, I'm talking about how much that moment affects you. For example, negative moments occurring to you are not that bad if they have a small impact on how you feel.
 
 Here's 2 handy bitesize graphs showing you how I'd imagine the average person experiences positive and negative moments and the red lines show what I think we should be working towards.
 
 ![Intensity](../assets/moments-intensity.jpg)
 ![Frequency](../assets/moments-frequency.jpg)
 
-The first graph is arguably the more important one. We have more control over how we think about moments than how often they occur, as frequency can often be dependant on external factors (out of your control), whereas your own feelings and thought process are internal and can be developed (more inside your control).
+The first graph is arguably the more important one. We have more control over how we think about moments than how often they occur, as frequency can often be dependent on external factors (out of your control), whereas your own feelings and thought process are internal and can be developed (more inside your control).
 
-To help reduce the impact of negative moments on your feelings. I turn to a mix of Stoic advice and mindfulness 🧠. Which (through practice e.g. meditation) encourages you to accept the current moment without judging it and to visualise potential negative situations to train your mind to deal with negative experiences. Checkout [A Guide to the Good Life: The Ancient Art of Stoic Joy ](https://www.amazon.co.uk/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)and the meditation app [Calm](https://www.calm.com/). Great places to start.
+To help reduce the impact of negative moments on your feelings, I turn to a mix of Stoic advice and mindfulness 🧠. Which (through practice e.g. meditation) encourages you to accept the current moment without judging it and to visualise potential negative situations to train your mind to deal with negative experiences. Checkout [A Guide to the Good Life: The Ancient Art of Stoic Joy ](https://www.amazon.co.uk/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)and the meditation app [Calm](https://www.calm.com/). Great places to start.
 
-For positive moments learn to fully let yourself absorb into the experience and joy 😀 of it. Keeping you mind in the present during these moments let you take full advantage of it.
+For positive moments, learn to fully let yourself absorb into the experience and joy 😀 of it. Keeping your mind in the present during these moments let you take full advantage of it.
 
 When it comes to balancing the frequency of positive and negative events you can do stuff to improve it, but it's still more out of your control:
 

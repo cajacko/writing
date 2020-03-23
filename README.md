@@ -4,6 +4,7 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## Finished Pieces
 
+- [How to Enjoy Life](writing/enjoy-life.md) (March 2020)
 - [Overcoming your primitive mind](./writing/primitive-mind.md) (February 2020)
 - [How selfish should you be](./writing/selfish.md) (January 2020)
 - [Don't take life too seriously](./writing/serious.md) (January 2020)
@@ -34,4 +35,3 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 ## In Progress
 
 - [Understanding Depression](writing/understanding-depression.md) (March 2020)
-- [How to Enjoy Life](writing/enjoy-life.md) (March 2020)

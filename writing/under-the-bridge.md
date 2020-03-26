@@ -1,10 +1,10 @@
-# Under the Bridge
+# Under The Bridge
 
 The occasional surprise of lightning lit the night sky. As if the gods wanted you to start regaining some kind of night vision, before fucking you over with another burst of electric brightness. In the periodic darkness a figure (let's call him Clive) scurries over the cobblestones as the rain pit patters around him. We hear the rush of water as Clive continues his scurrying along the elevated banks of the river pathway.
 
 Another burst of light, and we see Clive pause. As he comes upon the edge of a narrow, gloomy bridge. He looks this way and that, breathing quickly, his hands shaking ever so slightly. He shrugs off the build up of water on the tall collars of his leather jacket. As the light fades, he ducks down the stone stairs leading to the space underneath the bridge.
 
-Imagine a person who has been told they need to be very sneaky to approach a secret meeting, but never realised that doing so would look incredibly suspicious, that is our Clive. 
+Imagine a person who has been told they need to be very sneaky to approach a secret meeting, but never realised that doing so would look incredibly suspicious, that is our Clive.
 
 Underneath the bridge there is a small walkway that widens out into a concrete platform, raised just above the water line. The water frantically grabs at the platform, the small waves like hands grasping out trying to pull you in. If there was a demon controlling the waters of hell, he would have been proud at the way this river was acting.
 
@@ -39,4 +39,3 @@ The figure abruptly shuts their trench coat, adjusts their hat. And looks around
 "Um, no, I mean, I err, I have needs, I gotta.... I gotta..." Clive collapses to his knees. "I gotta have my fix man." Tears stream down his face, his whole body shaking. "Ever since the Interdiction, I've been rationing myself. Only using when I must, but now, but now... this is all I have left." Clive pulls forth a metallic stub, what was once a proud spork, has been worn away from repeated use. His tears have transcended into pathetic sobbing and mumbling, with Clive clutching at his battered stub.
 
 The figure peers down at the sad lump in front of them, looks around again, double and triple checking no one's around. "Look, if I 'elp you out this one time. I don't never wanna see you around these 'ere bridges again." They take off one of their solid steel tipped boots, and pull up a flap in the sole. Their hand retreats holding forth a brand spanking new spork. "Take it, I was never 'ere, and you never saw nothing."
-

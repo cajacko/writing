@@ -1,4 +1,4 @@
-# Don't take life too seriously 🤪
+# Don't Take Life Too Seriously 🤪
 
 I don't want global warming to fuck up the planet 🌍.
 

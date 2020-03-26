@@ -1,4 +1,4 @@
-# No-one is the Villain of Their Own Story
+# No-One Is The Villain Of Their Own Story
 
 You're walking down the road, the sun is shining and you pleasantly whistle a tune to yourself. As you turn around the corner you're confronted with a stern faced man crying out "Fuck the world!". You throw him a disgusted look and think to yourself "What an angry man" whilst giving him a wide berth.
 

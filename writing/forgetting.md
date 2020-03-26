@@ -1,4 +1,4 @@
-# Stop Forgetting, Employ the Machines! 🤖
+# Stop Forgetting, Employ The Machines! 🤖
 
 It's not your fault when you forget to turn up to board game night.
 

@@ -1,6 +1,6 @@
 NOTE: If publishing, start with a story. Perhaps how I use to believe in the Simulation argument, and then reassigned my probabilities after a few years. Mention how I wanted to believe in it, life after death etc.
 
-# How to Form Beliefs - When to Believe What Someone Else Believes
+# How to Form Beliefs - When To Believe What Someone Else Believes
 
 ## How do you know that what you believe is true?
 

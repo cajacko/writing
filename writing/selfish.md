@@ -1,4 +1,4 @@
-# How selfish should you be 😇
+# How Selfish Should You Be 😇
 
 Get ready 😉... As humans all we really want to do is increase our personal happiness. Helping others is just a way of satisfying our own goals. If you're in control of your actions, I don't think it's possible to be truly selfless.
 

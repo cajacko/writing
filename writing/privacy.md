@@ -1,8 +1,8 @@
-# Give up all your data
+# Give Up All Your Data
 
 Imagine a world where every advertisement you see is only something that you want to buy and can afford 🤑. If you don't want to buy anything, you don't get any ads. When something you don't know about but would love is released, you get told about it. No more spam! Sounds great! 👍
 
-And companies want this too. They waste so much money advertising to people who will never buy their products. They could save so much and spend more on making better inventions for you. 
+And companies want this too. They waste so much money advertising to people who will never buy their products. They could save so much and spend more on making better inventions for you.
 
 Now imagine that when companies are designing these products, they know exactly how to build the perfect contraption just for you. They could see how you used previous devices, competitors' appliances and how to fit their new gizmo into your life. Now you're happy that you have a better product, and they're happy you keep buying from them 🥳.
 
@@ -12,7 +12,7 @@ At the moment many of us are very paranoid when it comes to giving our personal 
 
 One potential downside to sharing your data with companies is when they create services with positive feedback loops ♾, and you don't realise that.
 
-> Positive Feedback Loop - Where you like a funny article about ducks, now you start seeing more articles about ducks, you like a few more, next thing you know your entire feed is just ducks and you've signed up for duck impersonation training. 
+> Positive Feedback Loop - Where you like a funny article about ducks, now you start seeing more articles about ducks, you like a few more, next thing you know your entire feed is just ducks and you've signed up for duck impersonation training.
 
 Often positive feedback loops can be great, Spotify recommending you songs 🎵 you're likely to love. But if you don't realise you're in one, and you're using a service that's giving you news and political opinions, it can start to really distort your view of what the world is actually like. And when mixed with fake news, this can be really destructive.
 

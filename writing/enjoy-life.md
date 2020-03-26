@@ -1,4 +1,4 @@
-# How to enjoy life
+# How To Enjoy Life
 
 Trying to live the most enjoyable 🥳 life you can seems like a pretty reasonable goal to have. Not much seems more important.
 

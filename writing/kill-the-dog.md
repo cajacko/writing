@@ -1,4 +1,4 @@
-# Killing the Dog - My new reason for practicing mindfulness
+# Killing The Dog - My New Reason For Practicing Mindfulness
 
 Anyone else seriously wanted to kill their dog ☠️🐶? And gone through a bunch of plans to make it seem like an accident?
 

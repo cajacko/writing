@@ -1,4 +1,4 @@
-# Religion is obviously false
+# Religion Is Obviously False
 
 NOTE: This post is in a super rough note form, if you couldn't tell. It was abandoned at this stage, but is left like this in case I pick it up at a later stage.
 

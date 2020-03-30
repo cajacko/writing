@@ -1,49 +1,10 @@
-# Handling Others With Depression
+# Selfish Dick or Depressed and Needs Help?
 
-- Identifying it
-  - Becoming more selfish
-  - Social distancing
-  - fatigue
-  - low self esteem
-  -
-- What to do
-  - Learn more
-  - Know that you're super important for that person
+When you see a friend in constant pain and agony, it makes sense for them to act selfishly (NOTE: explain an example, when x is happening it makes sense to do y). Got an xyz, doctors find a light bulb up your butt? Sure. Spend some time focussing on yourself. (NOTE: need to be very delicate with the examples)
 
-* Selfish or depressed
+(NOTE: reduce use of word "pain")
+When we're in pain our mental capacity is largely taken up with dealing with that pain. The problem is when this pain is invisible to everyone else. If we don't know you're in pain, we may only see you acting more selfishly and conclude that you're just turning into a dick. (NOTE: Stress this problem more, as this is the crux of why it's important to change our behaviour)
 
-## Trying to understand depression
+This is a problem when it comes to anxiety and depression. You could be in a whole world of pain, when your thoughts are causing you pain, it makes sense to act for yourself first. (NOTE: Example)
 
-- why
-  - I write about improving your life, most of the time it's from research I'm doing for me and to improve my life. But it's important to look at another point of view.
-  - Helping others, many people go through depression and anxiety
-- process
-  - Read about it
-  - Talking about it
-  - Experiencing it (very useful, but wouldn't try and do this)
-- notes
-  - Selfishness
-  - Exercise
-  - Listening
-  - Patience
-  - Slow down - mindfulness, countryside, time off
-
----
-
-Hard thing to write about. At this stage need to take a small piece and write emotionally/inspirationally
-
-- The selfish part?
-- Realising it doesn't go away
-
-Selfish dick or depressed and needs help?
-
----
-
-Process
-
-- Initial notes
-- Ask questions. Like an interviewer
-- Videos around topic and answering these questions
-- Figure out the unique stance
-- Write
-- Videos to communicate
+So when you notice someone acting more selfishly than normal for an extended time, maybe you should be more sympathetic and understanding. They could need your help now more than ever. Or maybe they've just got a light bulb stuck up their butt.

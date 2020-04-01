@@ -1,10 +1,11 @@
 # Selfish Dick or Depressed and Needs Help?
 
-When you see a friend in constant pain and agony, it makes sense for them to act selfishly (NOTE: explain an example, when x is happening it makes sense to do y). Got an xyz, doctors find a light bulb up your butt? Sure. Spend some time focussing on yourself. (NOTE: need to be very delicate with the examples)
+When you see a friend in constant pain and agony 😢, it makes sense for them to act more selfishly than usual. If you had a "friend 👀" who had to be rushed to the hospital with a light bulb 💡 up "their" butt 🍑 and spent the next few weeks recovering from painful butt surgery, you'd hope others would give "them" some slack for focussing on "their" current predicament. 
 
-(NOTE: reduce use of word "pain")
-When we're in pain our mental capacity is largely taken up with dealing with that pain. The problem is when this pain is invisible to everyone else. If we don't know you're in pain, we may only see you acting more selfishly and conclude that you're just turning into a dick. (NOTE: Stress this problem more, as this is the crux of why it's important to change our behaviour)
+When you're in constant agony it saps so much of your mental capacity 🧠, which makes it hard to deal with anything outside the pain. Most of us realise this, and are great with understanding that your adventurous "friend" needs to focus on themselves for a while. 
 
-This is a problem when it comes to anxiety and depression. You could be in a whole world of pain, when your thoughts are causing you pain, it makes sense to act for yourself first. (NOTE: Example)
+But this only works when we know that your "friend" is in pain. When the symptoms of suffering and illness are not present 😐 but your "friend" is acting more selfishly it's easy for us to assume they're just being a dick 🍆.
 
-So when you notice someone acting more selfishly than normal for an extended time, maybe you should be more sympathetic and understanding. They could need your help now more than ever. Or maybe they've just got a light bulb stuck up their butt.
+This is a problem when it comes to anxiety and depression. When you're suffering with either of these you can often be in a whole world 🌍 of pain, pretty much constantly. When your thoughts hurt you, you're going to be hurting a lot. But it's really hard for anyone else to know this. So if you start acting more selfishly than normal, which is totally understandable given the suffering you're facing, but other's don't realise, they may think you're just turning into a dick.
+
+So I just wanted to prompt the friends 👫, loved ones ❤️ and anyone else that when you notice someone acting in a selfish way, give them the benefit of the doubt. You have no idea how much they might be suffering. Give them some slack, listen 👂, be patient and get to know them. Then you'll understand if they are going through something bigger, or are actually just a dick.

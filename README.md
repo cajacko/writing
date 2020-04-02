@@ -34,4 +34,4 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## In Progress
 
-- [Understanding Depression](writing/understanding-depression.md) (March 2020)
+- [Selfish Dick or Depressed and Needs Help?](writing/selfish-or-depressed.md) (April 2020)

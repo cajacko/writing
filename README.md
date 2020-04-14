@@ -4,6 +4,7 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## Finished Pieces
 
+- [Selfish Dick or Depressed and Needs Help?](writing/selfish-or-depressed.md) (April 2020)
 - [How To Enjoy Life](writing/enjoy-life.md) (March 2020)
 - [Overcoming Your Primitive Mind](./writing/primitive-mind.md) (February 2020)
 - [How Selfish Should You Be](./writing/selfish.md) (January 2020)
@@ -32,6 +33,4 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 - [How To Form Beliefs - When To Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 - [Poker](./writing/poker.md) (February 2020)
 
-## In Progress
-
-- [Selfish Dick or Depressed and Needs Help?](writing/selfish-or-depressed.md) (April 2020)
+<!-- ## In Progress -->

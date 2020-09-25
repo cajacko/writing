@@ -4,6 +4,8 @@ Sometimes I think weird things 🤪. Here's a whole bunch of the weirder or more
 
 My opinions and confidence in these statements changes all the time. This list was last updated on the 25th September 2020.
 
+<!-- NOTE: Add in some ridiculous ones with low probability? -->
+
 - Religion does more long term harm for humanity than good (70% chance of being true)
 - Religion is false (99.9999% chance of being true)
 - Earning more than £60,000 does not substantially make people happier and should be taxed heavily, above 80% (60% agree with this statement)

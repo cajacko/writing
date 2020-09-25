@@ -35,4 +35,4 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## In Progress
 
-- [Unusual Opinions I have](writing/unusual-opinons.md) (April 2020)
+- [Unusual Opinions I have](writing/unusual-opinons.md) (September 2020)

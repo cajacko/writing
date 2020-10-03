@@ -4,6 +4,7 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## Finished Pieces
 
+- [Unusual Opinions I have](writing/unusual-opinons.md) (October 2020)
 - [Selfish Dick or Depressed and Needs Help?](writing/selfish-or-depressed.md) (April 2020)
 - [How To Enjoy Life](writing/enjoy-life.md) (March 2020)
 - [Overcoming Your Primitive Mind](./writing/primitive-mind.md) (February 2020)
@@ -35,5 +36,4 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## In Progress
 
-- [Unusual Opinions I have](writing/unusual-opinons.md) (September 2020)
 - [What I learnt when I died](writing/dying.md) (September 2020)

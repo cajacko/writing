@@ -1,15 +1,16 @@
 # Unusual Opinions I have
 
-Sometimes I think weird things 🤪. Here's a whole bunch of the weirder or more controversial opinions I hold and a super rough percentage of how likely I think that statement is to be true or my confidence in that statement (See my post on [thinking in probabilities](https://medium.com/lessons-by-charlie-jackson/how-thinking-in-probabilities-helps-you-make-better-decisions-c82e09bd183a) for more on why that's important). If I've written a post 📖 on the idea or theme of the opinion then I've turned it into a link to that post. Enjoy and remember to tell me why you disagree, I'm sure you'll find some to disagree with 😉.
+Sometimes I think weird things 🤪. Here's a whole bunch of the weirder or more controversial opinions I hold along with a super rough percentage of how likely I think that statement is to be true or my confidence in that statement (see my post on [thinking in probabilities](https://medium.com/lessons-by-charlie-jackson/how-thinking-in-probabilities-helps-you-make-better-decisions-c82e09bd183a) for more on why that's important). If I've written a post 📖 on the idea or theme of the opinion then I've turned it into a link to that post. Enjoy and remember to tell me why you disagree, I'm sure you'll find some to disagree with 😉.
 
-My opinions and confidence in these statements changes all the time. This list was last updated on the 25th September 2020.
+My opinions and confidence in these statements changes all the time. This list was last updated on the 3rd October 2020.
 
 <!-- NOTE: Add in more ridiculous ones with low probability -->
 
 - Religion does more long term harm for humanity than good (70% chance of being true)
-- Religion is false (99.9999% chance of being true)
+- There is no God - If we're in a simulated reality this definition of god does not include whatever created that reality (80% agree with this statement)
+- All religions are wrong about their ideas of afterlife, God, creation and basically all the magical sounding stuff (99.9999% chance of being true)
 - Earning more than £60,000 does not substantially make people happier and should be taxed heavily, above 80% (60% agree with this statement)
-- Humanities main goals right now should be to stop people dying and trying to get everyone to live indefinitely (90% agree with this statement)
+- Humanity’s main goals right now should be to stop people dying and trying to get everyone to live indefinitely (90% agree with this statement)
 - Lizard people are real, out there and watching (alas 0.0001% agree with this statement)
 - Privacy is unnecessary unless it's specifically related to preventing criminal activity (70% agree with this statement)
 - It's better to save an 18 year old than a 1 year old, in the impossible event that you can only pick 1 (60% agree with this statement)
@@ -39,3 +40,7 @@ My opinions and confidence in these statements changes all the time. This list w
 - It's okay not to vote if you think any of the parties that could get in are fine (70% agree with this statement)
 - There should be a basic free version of the internet supplied by the government (80% agree with this statement)
 - Universities shouldn't all be free (80% agree with this statement)
+- The physical world does not exist it is a figment of my own mind (5% agree with this statement)
+- I am the only concious being (10% agree with this statement)
+- We do not have free will (80% agree with this statement)
+- Conciousness can be entirely explained by the physical processes that occur in our brain/body. There is no separate "soul" (85% agree with this statement)

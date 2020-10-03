@@ -1,6 +1,6 @@
 # Unusual Opinions I have
 
-Sometimes I think weird things 🤪. Here's a whole bunch of the weirder or more controversial opinions I hold along with a super rough percentage of how likely I think that statement is to be true or my confidence in that statement (see my post on [thinking in probabilities](https://medium.com/lessons-by-charlie-jackson/how-thinking-in-probabilities-helps-you-make-better-decisions-c82e09bd183a) for more on why that's important). If I've written a post 📖 on the idea or theme of the opinion then I've turned it into a link to that post. Enjoy and remember to tell me why you disagree, I'm sure you'll find some to disagree with 😉.
+Sometimes I think weird things 🤪. Here's a whole bunch of the weirder or more controversial opinions I hold, along with a super rough percentage of how likely I think that statement is to be true or my confidence in that statement (see my post on [thinking in probabilities](https://medium.com/lessons-by-charlie-jackson/how-thinking-in-probabilities-helps-you-make-better-decisions-c82e09bd183a) for more on why that's important). If I've written a post 📖 on the idea or theme of the opinion then I've turned it into a link to that post. Enjoy and remember to tell me why you disagree, I'm sure you'll find some to disagree with 😉.
 
 My opinions and confidence in these statements changes all the time. This list was last updated on the 3rd October 2020.
 

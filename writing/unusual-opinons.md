@@ -6,12 +6,11 @@ My opinions and confidence in these statements changes all the time. This list w
 
 <!-- NOTE: Add in more ridiculous ones with low probability -->
 
-- Religion does more long term harm for humanity than good (70% chance of being true)
 - There is no God - If we're in a simulated reality this definition of god does not include whatever created that reality (80% agree with this statement)
-- All religions are wrong about their ideas of afterlife, God, creation and basically all the magical sounding stuff (99.9999% chance of being true)
 - Earning more than £60,000 does not substantially make people happier and should be taxed heavily, above 80% (60% agree with this statement)
 - Humanity’s main goals right now should be to stop people dying and trying to get everyone to live indefinitely (90% agree with this statement)
 - Lizard people are real, out there and watching (alas 0.0001% agree with this statement)
+- Religion does more long term harm for humanity than good (70% chance of being true)
 - Privacy is unnecessary unless it's specifically related to preventing criminal activity (70% agree with this statement)
 - It's better to save an 18 year old than a 1 year old, in the impossible event that you can only pick 1 (60% agree with this statement)
 - Abortion is fine at any point before birth (80% agree with this statement)
@@ -19,6 +18,7 @@ My opinions and confidence in these statements changes all the time. This list w
 - Coronavirus will overall be a positive event for humanity (50% agree with this statement)
 - Eating a full grown swan will give you its powers of flight (99.9% agree with this statement... lol, jokes 0.000001%)
 - Top athletes or people in the armed forces don't deserve more respect than Joe in accounting who does nothing of note in his life (70% agree with this statement)
+- All religions are wrong about their ideas of afterlife, God, creation and basically all the magical sounding stuff (99.9999% chance of being true)
 - Self development should be part of the national curriculum (90% agree with this statement)
 - Nothing really matters so focus on enjoying your life (95% agree with this statement)
 - Companies do more good for the world than governments (60% agree with this statement)

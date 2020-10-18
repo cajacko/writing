@@ -36,4 +36,4 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## In Progress
 
-- [What I learnt when I died](writing/dying.md) (September 2020)
+- [What I learnt when I died](writing/dying.md) (October 2020)

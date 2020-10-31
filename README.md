@@ -36,4 +36,6 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 - [How To Form Beliefs - When To Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 - [Poker](./writing/poker.md) (February 2020)
 
-<!-- ## In Progress -->
+## In Progress
+
+- [Sympathy vs Empathy](./writing/sympathy.md) (October 2020)

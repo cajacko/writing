@@ -4,6 +4,7 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 
 ## Finished Pieces
 
+- [A Love Letter to Water](./writing/water.md) (October 2020)
 - [What I Learned When I Died](writing/dying.md) (October 2020)
 - [Unusual Opinions I have](writing/unusual-opinons.md) (October 2020)
 - [Selfish Dick or Depressed and Needs Help?](writing/selfish-or-depressed.md) (April 2020)
@@ -35,6 +36,4 @@ A collection of posts and writings by [Charlie Jackson](https://charliejackson.c
 - [How To Form Beliefs - When To Believe What Someone Else Believes](writing/forming-beliefs.md) (August 2019)
 - [Poker](./writing/poker.md) (February 2020)
 
-## In Progress
-
-- [A Love Letter to Water](./writing/water.md) (October 2020)
+<!-- ## In Progress -->

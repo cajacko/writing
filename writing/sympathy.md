@@ -47,3 +47,5 @@ So in our day to day life empathy can be useful. As long as it doesn't prevent y
 Maybe the end point here is: Empathy can improve your chances of helping someone, but isn't worth seeking out just to help them. As each individual is too unique for you to be fully empathetic, and sympathy combined with research can work just as well.
 
 Doctors = sympathy + study
+
+Physchologist, therapist can still help you

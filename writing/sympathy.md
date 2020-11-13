@@ -49,3 +49,91 @@ Maybe the end point here is: Empathy can improve your chances of helping someone
 Doctors = sympathy + study
 
 Physchologist, therapist can still help you
+
+Whole point here is:
+
+1. Realise you don't know what it's actually like (their boulder is different). It's naive to think their boulder is the same as yours
+2. You don't have to know what the boulder feels like, but if you want to help people then study boulders
+3. If you want to help or better understand people then broadly research different types of boulders as you may not realise some exist. Some are not boulders at all.
+
+- Person who has had a boulder before. Knows what it's like and thinks it's the same. It's not. Might work, might not. Might make it worse
+- Person who has not had a boulder and wants to understand so puts one on their chest. Can help but downside is you put a boulder on your chest. Not necessary (doctor analogy)
+- Person who can't see the boulder very clearly, but can tell there's something there, so starts researching boulders
+- Person who can't see the boulder at all and just thinks they are lying down. Ignorance, research widely
+- Victim blame, You're in the middle of the way, get out
+
+- Size of boulder is different
+
+Either way, trying to move the boulder is risky. So understand boulders
+
+- Can't see boulder
+- Can vaguely see boulder
+- Can see boulder
+  - Has had a boulder on their chest before
+  - Has not had a boulder on their chest before
+
+---
+
+It's Monday morning, time for the daily run. Down you're favourite route. This delightful winding passageway through the canyons. Maybe this time you can beat your personal best.
+
+You head off, starting strong. In and out through the.... But wait. What's that! You come across someone lying on the floor in the middle of the path. 
+
+Ah balls, this is going to ruin your time. This obstacle is going to set you back! How rude! What are they doing anyway? Sleeping? Having a rest. Urgh! You run around them, adding a few seconds onto your time. Some people ey?
+
+- Motivation to help - 1/10
+- Ability to help - 1/10
+- Personal well being - 5/10
+
+You get back home, still furious about how rude and inconsiderate some people can be.
+
+It's Tuesday, you're back and determined to beat that time. Once again you come accross the same person lying down in the middle of the path. You pay a bit more attention this time. Noticing a sense of discomfort on their face as you pass on by. How strange. There didn't seem to be any cause for their discomfort. Oh well.
+
+- Motivation to help - 2/10
+- Ability to help - 1/10
+- Personal well being - 5/10
+
+When you get home you do a quick search for "reasons you may be uncomfortable and lying down". You're vagueness returns quite a few search results but gave you a few ideas of what could be happening.
+
+On Wednesday you wonder if you'll see them again. As you come around the bend, oh what a surprise that person is there again, lying down. Hang on. This time is slightly different. You notice a vague outline of a shape sitting atop of stranger, like a wireframe drawing. You can't quite make it out but there definitely seems to be something pinning them down. Hmm, maybe this isn't their fault after all. 
+
+You offer to help remove the object, but you have no real way of knowing how to. You could try and push it off, but that may just shift it's position and make things worse. Either way the stranger assures you that they're okay, and you continue your run.
+
+- Motivation to help - 3/10
+- Ability to help - 1/10
+- Personal well being - 5/10
+
+That evening you go online again and discover a promising new lead: "boulders". You read about how people can be trapped under boulders. And a few ways in which you can try and help relieve some of the pressure.
+
+On Thursday you come across the stranger again. That vague shape from yesterday is now much more obvious as a boulder, but it lacks a lot of details. It's like looking at a bad drawing of a boulder. And you can more clearly see the pain that they are in. It seems strange that you didn't originally notice it. Using you're new knowledge you offer to help again, and ask them a bit about what their boulder is like. You probably have a better idea of how to help but the risks of causing more damage or doing nothing is still pretty high. (NOTE: Need to make this part better "
+
+- Motivation to help - 3/10
+- Ability to help - 2/10
+- Personal well being - 5/10
+
+Continue running, you get trapped by a boulder.
+
+- Motivation to help - 5/10
+- Ability to help - 3/10
+- Personal well being - 3/10
+
+Do some proper studying
+
+- Motivation to help - 6/10
+- Ability to help - 5/10
+- Personal well being - 4/10
+
+
+Everyone's boulder is different. It's wrong to think our boulders are identical or the ways of helping are exactly the same. But the more we learn about boulders generally and we learn about the specific boulder of someone we're trying to help. Then our chances of releiving the pressure are greater.
+
+We don't need to have had a boulder on our chest before to realise this, it may help us understand how much it sucks. And may help give you some ideas. But who wants to try out putting boulders on their chest? And your boulder will still be different to everyone elses.
+
+And if we don't even know that boulders exist, or can't even recognise them. Then I guess we're all ignorant dicks just running past each other.
+
+
+---
+
+Moviation score - 0-10
+Helpfulness score - 0-10
+Personal happiness score - 0-10
+
+
